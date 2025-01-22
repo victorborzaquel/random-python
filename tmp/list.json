@@ -1,0 +1,132 @@
+{
+    "data": [
+        {
+            "pergunta": "Quais s\u00e3o as aplica\u00e7\u00f5es da Central Fit Connect?",
+            "resposta": "A Central Fit Connect \u00e9 aplicada em motores monof\u00e1sicos at\u00e9 1/4."
+        },
+        {
+            "pergunta": "Quais s\u00e3o as caracter\u00edsticas principais da Central Fit Connect?",
+            "resposta": "As caracter\u00edsticas principais incluem: microcontrolador ARM\u00ae de 32 bits, receptor heter\u00f3dino, ajustes por jumpers e bot\u00f5es, ajuste de rampa de chegada, freio eletr\u00f4nico, embreagem eletr\u00f4nica, ajuste de fechamento autom\u00e1tico, varistor e fus\u00edvel de prote\u00e7\u00e3o, 2 bot\u00f5es de programa\u00e7\u00e3o, entrada para fotoc\u00e9lula com conector polarizado, prote\u00e7\u00f5es nas entradas de fim de curso e botoeira, LEDs de fim de curso, 2 conectores para fim de curso, sa\u00edda para placa 8F, e 1 entrada de botoeira independente."
+        },
+        {
+            "pergunta": "Para que serve o conector do gravador na Central Fit Connect?",
+            "resposta": "O conector do gravador \u00e9 utilizado para grava\u00e7\u00e3o do microcontrolador, sendo de uso da f\u00e1brica."
+        },
+        {
+            "pergunta": "Como \u00e9 utilizado o M\u00f3dulo Garen Setup na Central Fit Connect?",
+            "resposta": "O M\u00f3dulo Garen Setup \u00e9 utilizado como conector para o m\u00f3dulo Wi-Fi."
+        },
+        {
+            "pergunta": "Qual \u00e9 a fun\u00e7\u00e3o do Jumper BV/DZ?",
+            "resposta": "O Jumper BV/DZ serve para alterar entre m\u00e1quinas BV (basculante) e DZ (deslizante), ajustando as rampas de abertura e fechamento de acordo com o tipo de motor."
+        },
+        {
+            "pergunta": "Como se altera entre fotoc\u00e9lula PWM e fotoc\u00e9lula normal?",
+            "resposta": "Para alterar entre fotoc\u00e9lula PWM e fotoc\u00e9lula normal, utiliza-se o Jumper JP1."
+        },
+        {
+            "pergunta": "Qual \u00e9 a fun\u00e7\u00e3o do Jumper REV.?",
+            "resposta": "O Jumper REV. \u00e9 utilizado para selecionar (ou n\u00e3o) a fun\u00e7\u00e3o de revers\u00e3o."
+        },
+        {
+            "pergunta": "Como se ajusta o tempo de fechamento autom\u00e1tico?",
+            "resposta": "O tempo de fechamento autom\u00e1tico \u00e9 ajustado usando o Jumper PAUSA."
+        },
+        {
+            "pergunta": "Como se seleciona o freio desejado e sua for\u00e7a?",
+            "resposta": "O freio desejado e sua for\u00e7a s\u00e3o selecionados usando o Jumper FREIO."
+        },
+        {
+            "pergunta": "Como se ajusta a for\u00e7a da rampa antes de encontrar o fim de curso?",
+            "resposta": "A for\u00e7a da rampa antes de encontrar o fim de curso \u00e9 ajustada usando o Jumper RAMPA."
+        },
+        {
+            "pergunta": "Como se ajusta a for\u00e7a do motor na Central Fit Connect?",
+            "resposta": "A for\u00e7a do motor \u00e9 ajustada usando o Jumper FOR\u00c7A."
+        },
+        {
+            "pergunta": "Qual \u00e9 a fun\u00e7\u00e3o do Bot\u00e3o TX (-)?",
+            "resposta": "O Bot\u00e3o TX (-) \u00e9 utilizado para gravar (e apagar) controle e ajustar outras fun\u00e7\u00f5es."
+        },
+        {
+            "pergunta": "Como se grava o curso do port\u00e3o usando o Bot\u00e3o CURSO (+)?",
+            "resposta": "Para gravar o curso do port\u00e3o, pressiona-se o Bot\u00e3o CURSO (+), e o LED pisca 5 vezes e permanece aceso. O processo de grava\u00e7\u00e3o come\u00e7a com o port\u00e3o fechado, e envolve abrir e fechar o port\u00e3o completamente, com o LED piscando 3 vezes ao final para indicar o t\u00e9rmino da programa\u00e7\u00e3o."
+        },
+        {
+            "pergunta": "O que indicam os LEDs FCA e FCF?",
+            "resposta": "Os LEDs FCA e FCF indicam a atua\u00e7\u00e3o dos finais de curso de abertura e fechamento."
+        },
+        {
+            "pergunta": "Para que serve a entrada de emerg\u00eancia FOTO?",
+            "resposta": "A entrada de emerg\u00eancia FOTO \u00e9 o conector da fotoc\u00e9lula."
+        },
+        {
+            "pergunta": "Quais s\u00e3o as fun\u00e7\u00f5es do m\u00f3dulo opcional OP. 8F?",
+            "resposta": "O m\u00f3dulo opcional OP. 8F possui fun\u00e7\u00f5es de trava, luz de garagem, sinaleiro e alarme."
+        },
+        {
+            "pergunta": "Qual \u00e9 a tens\u00e3o de entrada da Central Fit Connect?",
+            "resposta": "A tens\u00e3o de entrada da Central Fit Connect \u00e9 de 127/220 V."
+        },
+        {
+            "pergunta": "Como se deve proceder caso a instala\u00e7\u00e3o necessite inverter os fios do motor?",
+            "resposta": "Caso a instala\u00e7\u00e3o necessite, deve-se inverter os fios PT por BR do motor."
+        },
+        {
+            "pergunta": "Para que serve a entrada do capacitor do motor?",
+            "resposta": "A entrada do capacitor do motor \u00e9 para conectar o capacitor do motor."
+        },
+        {
+            "pergunta": "Quais s\u00e3o as caracter\u00edsticas complementares da Central Fit Connect?",
+            "resposta": "As caracter\u00edsticas complementares incluem: microcontrolador ARM\u00ae, receptor heter\u00f3dino, ajustes por jumpers e bot\u00f5es, ajuste de rampa de chegada, freio eletr\u00f4nico, embreagem eletr\u00f4nica, ajuste de fechamento autom\u00e1tico, varistor e fus\u00edvel de prote\u00e7\u00e3o, 2 bot\u00f5es de programa\u00e7\u00e3o, entrada para fotoc\u00e9lula com conector polarizado, prote\u00e7\u00f5es nas entradas de fim de curso e botoeira, LEDs de fim de curso, 2 conectores para fim de curso, sa\u00edda para placa 8F, e 1 entrada de botoeira independente."
+        },
+        {
+            "pergunta": "Como funciona o microcontrolador ARM\u00ae na Central Fit Connect?",
+            "resposta": "O microcontrolador ARM\u00ae \u00e9 um microcontrolador de 32 bits de \u00faltima gera\u00e7\u00e3o com processamento em 48Mhz."
+        },
+        {
+            "pergunta": "O que \u00e9 o Receptor Heter\u00f3dino e qual \u00e9 sua fun\u00e7\u00e3o?",
+            "resposta": "O Receptor Heter\u00f3dino \u00e9 um receptor que n\u00e3o perde a calibra\u00e7\u00e3o de frequ\u00eancia."
+        },
+        {
+            "pergunta": "Como se faz o ajuste de rampa de chegada?",
+            "resposta": "O ajuste de rampa de chegada \u00e9 feito atrav\u00e9s da desacelera\u00e7\u00e3o eletr\u00f4nica."
+        },
+        {
+            "pergunta": "Como se desabilita o freio eletr\u00f4nico?",
+            "resposta": "O freio eletr\u00f4nico pode ser desabilitado, mas o manual n\u00e3o especifica o procedimento exato."
+        },
+        {
+            "pergunta": "Como se ajusta a for\u00e7a do motor durante o funcionamento?",
+            "resposta": "A for\u00e7a do motor durante o funcionamento \u00e9 ajustada pela embreagem eletr\u00f4nica."
+        },
+        {
+            "pergunta": "Como se faz o ajuste de fechamento autom\u00e1tico usando o jumper PAUSA?",
+            "resposta": "O ajuste de fechamento autom\u00e1tico \u00e9 feito usando o jumper PAUSA."
+        },
+        {
+            "pergunta": "Quais s\u00e3o as prote\u00e7\u00f5es oferecidas pela Central Fit Connect?",
+            "resposta": "As prote\u00e7\u00f5es oferecidas incluem varistor e fus\u00edvel de prote\u00e7\u00e3o, prote\u00e7\u00f5es nas entradas de fim de curso e botoeira."
+        },
+        {
+            "pergunta": "Como se programa o transmissor (controle remoto)?",
+            "resposta": "Para programar o transmissor, pressiona-se o bot\u00e3o TX (-), o LED pisca e permanece aceso, pressiona-se o bot\u00e3o do controle remoto desejado, e confirma-se pressionando novamente o bot\u00e3o TX (-)."
+        },
+        {
+            "pergunta": "Como se apaga toda a mem\u00f3ria da Central Fit Connect?",
+            "resposta": "Para apagar toda a mem\u00f3ria, pressiona-se o bot\u00e3o TX (-) at\u00e9 que o LED comece a piscar rapidamente, indicando que a mem\u00f3ria est\u00e1 vazia."
+        },
+        {
+            "pergunta": "O que significa se o LED n\u00e3o piscar ao apertar o bot\u00e3o do controle?",
+            "resposta": "Se o LED n\u00e3o piscar ao apertar o bot\u00e3o do controle, significa que a mem\u00f3ria est\u00e1 cheia."
+        },
+        {
+            "pergunta": "Como se adiciona uma botoeira usando o Jumper BOT?",
+            "resposta": "Para adicionar uma botoeira, utiliza-se o Jumper BOT."
+        },
+        {
+            "pergunta": "Como se seleciona o tipo de motor usando o Jumper BV/DZ?",
+            "resposta": "O tipo de motor \u00e9 selecionado usando o Jumper BV/DZ, ajustando as rampas de acordo com o tipo de motor (basculante ou deslizante)."
+        }
+    ]
+}

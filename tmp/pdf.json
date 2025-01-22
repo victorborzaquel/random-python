@@ -1,0 +1,13 @@
+{
+    "data": [
+        {
+            "id": null,
+            "metadata": {
+                "page": 0,
+                "page_label": "1"
+            },
+            "page_content": "Manual: Central Fit Connect\n1\n CENTRAL: FIT CONNECT\nAplica\u00e7\u00e3o: motores monof\u00e1sicos at\u00e9 1/4\nAplicaci\u00f3n: motores monof\u00e1sicos hasta 1/4\nCENTRAL FIT CONNECT\nVers\u00e3o:Portugu\u00eas/Espanhol\nRev. 00 \n 04/23\n171819\n6\n5\n4\n3\n1211\n78910\n1\n14\n13 15 16 2\nCARACTER\u00cdSTICAS\nCARACTER\u00cdSTICAS\n1 - Gravador \u2013 Conector para grava\u00e7\u00e3o do microcontrolador (uso da f\u00e1brica);\n1 - Grabadora \u2013 Conector para grabaci\u00f3n del microcontrolador (uso de f\u00e1brica);\n2 - M\u00f3dulo Garen Setup - Conector para o m\u00f3dulo Wi-Fi;\n2 - M\u00f3dulo Garen Setup - Conector para el m\u00f3dulo Wi-Fi;\n3 - Jumper BV/DZ - Alterar entre m\u00e1quinas BV e DZ;\n3 - Jumper BV/DZ - Cambio entre m\u00e1quinas BV y DZ;\n4 - Jumper JP1 - Alterar entre fotoc\u00e9lula PWM e fotoc\u00e9lula normal;\n4 - Jumper JP1 - Cambio entre fotoc\u00e9lula PWM y fotoc\u00e9lula normal;\n5 - Jumper REV. - Selecionar (ou n\u00e3o) a fun\u00e7\u00e3o revers\u00e3o;\n5 - Jumper REV. - Seleccionar (o no) la funci\u00f3n de inversi\u00f3n;\n6 - Jumper BOT - Comando de botoeira externa;\n6 - Jumper BOT - Comando de botonera externa;\n7 - Jumper PAUSA - Fechamento autom\u00e1tico: ajuste do tempo;\n7 - Jumper PAUSE - Cierre autom\u00e1tico: ajuste del tiempo;\n8 - Jumper FREIO - Selecionar o freio desejado e a for\u00e7a dele;\n8 - Jumper FRENO - Seleccione el freno deseado y su fuerza;\n9 - Jumper RAMPA - Selecionar a for\u00e7a da rampa antes de encontrar o fim de curso;\n9 - Jumper RAMPA - Selecciona la fuerza de la rampa antes de llegar al final del curso;\n10 - Jumper FOR\u00c7A - Ajuste da for\u00e7a do motor;\n10 - Jumper FUERZA - Regulaci\u00f3n de la fuerza del motor;\n11 - Bot\u00e3o TX (-) - Gravar (e apagar) controle e ajuste das demais fun\u00e7\u00f5es;\n11 - Bot\u00f3n TX (-) - Control de grabaci\u00f3n (y borrado) y ajuste de otras funciones;\n12 - Bot\u00e3o CURSO (+) - Gravar curso e ajuste das demais fun\u00e7\u00f5es;\n12 - Bot\u00f3n CURSO (+) - Grabar curso y ajuste de otras funciones;\n13 - FCA / FCF - Fim de curso de abertura e fim de curso de fechamento;",
+            "type": "Document"
+        }
+    ]
+}

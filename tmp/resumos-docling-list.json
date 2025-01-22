@@ -1,0 +1,1890 @@
+{
+    "data": [
+        {
+            "content": "# Manual do Central: Fit Connect\n\n## Aplica\u00e7\u00e3o\n\nO Central: Fit Connect \u00e9 projetado para ser utilizado com motores monof\u00e1sicos de at\u00e9 1/4 de pot\u00eancia. Este dispositivo \u00e9 ideal para aplica\u00e7\u00f5es que requerem controle eficiente e confi\u00e1vel de motores de baixa pot\u00eancia.\n\n## Caracter\u00edsticas\n\n### Compatibilidade\n\n- **Motores Monof\u00e1sicos**: Compat\u00edvel com motores monof\u00e1sicos de at\u00e9 1/4 de pot\u00eancia, garantindo um desempenho otimizado para aplica\u00e7\u00f5es de baixa pot\u00eancia.\n\n### Efici\u00eancia\n\n- **Controle Preciso**: Oferece controle preciso do motor, permitindo ajustes finos para otimizar o desempenho e a efici\u00eancia energ\u00e9tica.\n- **Economia de Energia**: Projetado para maximizar a efici\u00eancia energ\u00e9tica, reduzindo o consumo de energia e os custos operacionais.\n\n### Confiabilidade\n\n- **Constru\u00e7\u00e3o Robusta**: Fabricado com materiais de alta qualidade para garantir durabilidade e longa vida \u00fatil.\n- **Prote\u00e7\u00e3o Integrada**: Inclui prote\u00e7\u00e3o contra sobrecarga e superaquecimento, assegurando a seguran\u00e7a do motor e do dispositivo.\n\n### Facilidade de Uso\n\n- **Interface Intuitiva**: Equipado com uma interface de usu\u00e1rio f\u00e1cil de usar, permitindo uma configura\u00e7\u00e3o e opera\u00e7\u00e3o simples.\n- **Instala\u00e7\u00e3o Simples**: Design compacto e leve que facilita a instala\u00e7\u00e3o em diversos ambientes.\n\n### Conectividade\n\n- **Conex\u00e3o R\u00e1pida**: Suporte para conex\u00f5es r\u00e1pidas e seguras, garantindo uma integra\u00e7\u00e3o f\u00e1cil com sistemas existentes.\n- **Compatibilidade com Sistemas de Automa\u00e7\u00e3o**: Pode ser integrado a sistemas de automa\u00e7\u00e3o para controle remoto e monitoramento.\n\n## Instru\u00e7\u00f5es de Instala\u00e7\u00e3o\n\n1. **Prepara\u00e7\u00e3o do Local**: Certifique-se de que o local de instala\u00e7\u00e3o est\u00e1 limpo e seco. Verifique se h\u00e1 espa\u00e7o suficiente para ventila\u00e7\u00e3o adequada.\n2. **Conex\u00e3o El\u00e9trica**: Siga as instru\u00e7\u00f5es do fabricante para conectar o dispositivo \u00e0 fonte de alimenta\u00e7\u00e3o e ao motor. Certifique-se de que todas as conex\u00f5es est\u00e3o firmes e seguras.\n3. **Configura\u00e7\u00e3o Inicial**: Utilize a interface do usu\u00e1rio para configurar os par\u00e2metros iniciais de opera\u00e7\u00e3o de acordo com as especifica\u00e7\u00f5es do motor.\n4. **Teste de Funcionamento**: Ap\u00f3s a instala\u00e7\u00e3o, realize um teste de funcionamento para garantir que o dispositivo e o motor est\u00e3o operando corretamente.\n\n## Manuten\u00e7\u00e3o\n\n- **Inspe\u00e7\u00e3o Regular**: Realize inspe\u00e7\u00f5es regulares para verificar o estado das conex\u00f5es el\u00e9tricas e a integridade do dispositivo.\n- **Limpeza**: Mantenha o dispositivo limpo e livre de poeira e detritos para garantir um desempenho ideal.\n- **Atualiza\u00e7\u00f5es de Software**: Verifique regularmente se h\u00e1 atualiza\u00e7\u00f5es de software dispon\u00edveis para garantir que o dispositivo esteja sempre com o firmware mais recente.\n\n## Seguran\u00e7a\n\n- **Desligamento de Emerg\u00eancia**: Familiarize-se com o procedimento de desligamento de emerg\u00eancia em caso de falha ou mau funcionamento.\n- **Prote\u00e7\u00e3o Contra Sobrecarga**: O dispositivo possui prote\u00e7\u00e3o contra sobrecarga, mas \u00e9 importante monitorar o funcionamento para evitar danos ao motor.\n\n## Suporte T\u00e9cnico\n\nPara assist\u00eancia t\u00e9cnica ou mais informa\u00e7\u00f5es sobre o Central: Fit Connect, entre em contato com o suporte ao cliente atrav\u00e9s dos canais oficiais fornecidos pelo fabricante.\n\n---\n\nEste manual fornece uma vis\u00e3o geral das caracter\u00edsticas e instru\u00e7\u00f5es de uso do Central: Fit Connect. Para informa\u00e7\u00f5es detalhadas, consulte a documenta\u00e7\u00e3o completa fornecida pelo fabricante.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 715,
+                    "prompt_tokens": 118,
+                    "total_tokens": 833,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_4691090a87",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-374bc7b8-ba3f-4892-bb8f-cccadb15ff4d-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 118,
+                "output_tokens": 715,
+                "total_tokens": 833,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Conectores e Jumpers\n\nEste manual fornece uma descri\u00e7\u00e3o detalhada dos conectores e jumpers utilizados em um sistema de controle de microcontroladores. As informa\u00e7\u00f5es est\u00e3o dispon\u00edveis em portugu\u00eas e espanhol para facilitar a compreens\u00e3o.\n\n## Conectores\n\n### 1. Gravador / Grabadora\n- **Descri\u00e7\u00e3o**: Conector utilizado para a grava\u00e7\u00e3o do microcontrolador.\n- **Uso**: Exclusivo de f\u00e1brica.\n\n### 2. M\u00f3dulo Garen Setup\n- **Descri\u00e7\u00e3o**: Conector para o m\u00f3dulo Wi-Fi.\n- **Uso**: Permite a conex\u00e3o e configura\u00e7\u00e3o do m\u00f3dulo Wi-Fi.\n\n## Jumpers\n\n### 3. Jumper BV/DZ\n- **Descri\u00e7\u00e3o**: Permite a altera\u00e7\u00e3o entre m\u00e1quinas BV e DZ.\n- **Fun\u00e7\u00e3o**: Configura\u00e7\u00e3o do tipo de m\u00e1quina a ser utilizada.\n\n### 4. Jumper JP1\n- **Descri\u00e7\u00e3o**: Altera entre fotoc\u00e9lula PWM e fotoc\u00e9lula normal.\n- **Fun\u00e7\u00e3o**: Sele\u00e7\u00e3o do tipo de fotoc\u00e9lula para o sistema.\n\n### 5. Jumper REV.\n- **Descri\u00e7\u00e3o**: Seleciona a fun\u00e7\u00e3o de revers\u00e3o.\n- **Fun\u00e7\u00e3o**: Ativa ou desativa a fun\u00e7\u00e3o de revers\u00e3o no sistema.\n\n### 6. Jumper BOT\n- **Descri\u00e7\u00e3o**: Comando de botoeira externa.\n- **Fun\u00e7\u00e3o**: Permite a conex\u00e3o de um comando externo para opera\u00e7\u00e3o.\n\n### 7. Jumper PAUSA / PAUSE\n- **Descri\u00e7\u00e3o**: Ajuste do tempo de fechamento autom\u00e1tico.\n- **Fun\u00e7\u00e3o**: Configura o tempo de espera antes do fechamento autom\u00e1tico.\n\n### 8. Jumper FREIO / FRENO\n- **Descri\u00e7\u00e3o**: Seleciona o freio desejado e a for\u00e7a dele.\n- **Fun\u00e7\u00e3o**: Ajusta a intensidade do freio aplicado no sistema.\n\n## Considera\u00e7\u00f5es Finais\n\nEste manual serve como um guia para a configura\u00e7\u00e3o e uso dos conectores e jumpers em sistemas de controle de microcontroladores. Certifique-se de seguir as instru\u00e7\u00f5es espec\u00edficas para cada componente para garantir o funcionamento correto do sistema.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 443,
+                    "prompt_tokens": 387,
+                    "total_tokens": 830,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-b8ca8c74-5bf0-4ebb-a5f4-a6cbe558298c-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 387,
+                "output_tokens": 443,
+                "total_tokens": 830,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Configura\u00e7\u00e3o e Opera\u00e7\u00e3o\n\nEste manual fornece instru\u00e7\u00f5es detalhadas para a configura\u00e7\u00e3o e opera\u00e7\u00e3o de um sistema de controle de motor. As fun\u00e7\u00f5es s\u00e3o ajustadas atrav\u00e9s de jumpers e bot\u00f5es, permitindo personalizar o comportamento do motor de acordo com as necessidades espec\u00edficas.\n\n## Configura\u00e7\u00f5es de Jumpers\n\n### 1. Jumper PAUSE\n- **Fun\u00e7\u00e3o**: Ajuste do tempo de fechamento autom\u00e1tico.\n- **Descri\u00e7\u00e3o**: Este jumper permite configurar o tempo que o sistema espera antes de iniciar o fechamento autom\u00e1tico ap\u00f3s uma pausa.\n\n### 2. Jumper FREIO / FRENO\n- **Fun\u00e7\u00e3o**: Sele\u00e7\u00e3o do freio desejado e ajuste da sua for\u00e7a.\n- **Descri\u00e7\u00e3o**: Permite escolher o tipo de freio a ser utilizado e ajustar a intensidade da for\u00e7a aplicada pelo freio.\n\n### 3. Jumper RAMPA\n- **Fun\u00e7\u00e3o**: Ajuste da for\u00e7a da rampa antes de encontrar o fim de curso.\n- **Descri\u00e7\u00e3o**: Configura a for\u00e7a aplicada durante a desacelera\u00e7\u00e3o do motor ao se aproximar do fim de curso, garantindo uma parada suave.\n\n### 4. Jumper FOR\u00c7A / FUERZA\n- **Fun\u00e7\u00e3o**: Ajuste da for\u00e7a do motor.\n- **Descri\u00e7\u00e3o**: Permite regular a pot\u00eancia do motor, adequando-a \u00e0s necessidades espec\u00edficas de opera\u00e7\u00e3o.\n\n## Bot\u00f5es de Controle\n\n### 1. Bot\u00e3o TX (-)\n- **Fun\u00e7\u00e3o**: Grava\u00e7\u00e3o e apagamento de controle, al\u00e9m de ajuste de outras fun\u00e7\u00f5es.\n- **Descri\u00e7\u00e3o**: Utilizado para programar e apagar controles remotos, bem como ajustar outras fun\u00e7\u00f5es do sistema.\n\n### 2. Bot\u00e3o CURSO (+)\n- **Fun\u00e7\u00e3o**: Grava\u00e7\u00e3o do curso e ajuste de outras fun\u00e7\u00f5es.\n- **Descri\u00e7\u00e3o**: Usado para definir o curso do motor, al\u00e9m de permitir ajustes adicionais nas fun\u00e7\u00f5es do sistema.\n\n## Sensores de Fim de Curso\n\n### 1. FCA / FCF\n- **Fun\u00e7\u00e3o**: Fim de curso de abertura e fechamento.\n- **Descri\u00e7\u00e3o**: Sensores que detectam quando o motor atinge o limite de abertura ou fechamento, garantindo que o sistema pare no ponto correto.\n\n## Considera\u00e7\u00f5es Finais\n\nEste sistema de controle \u00e9 altamente configur\u00e1vel, permitindo ajustes precisos para otimizar o desempenho do motor de acordo com as necessidades espec\u00edficas de cada aplica\u00e7\u00e3o. Certifique-se de seguir as instru\u00e7\u00f5es de configura\u00e7\u00e3o cuidadosamente para garantir uma opera\u00e7\u00e3o segura e eficiente.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 511,
+                    "prompt_tokens": 330,
+                    "total_tokens": 841,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-b32e3f44-b375-45ed-a47c-1841c12e613b-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 330,
+                "output_tokens": 511,
+                "total_tokens": 841,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Instala\u00e7\u00e3o e Opera\u00e7\u00e3o\n\n## Componentes e Conex\u00f5es\n\n### 1. Finais de Curso\n- **13 - FCA / FCF**: Final de curso de abertura e final de curso de fechamento. Esses componentes s\u00e3o respons\u00e1veis por determinar os limites de movimento do motor, garantindo que ele pare no ponto correto ao abrir ou fechar.\n\n### 2. Indicadores LED\n- **14 - LED FCA / LED FCF**: LEDs que indicam a atua\u00e7\u00e3o dos finais de curso. Eles fornecem uma indica\u00e7\u00e3o visual de que o final de curso foi acionado, ajudando na identifica\u00e7\u00e3o de problemas ou no ajuste do sistema.\n\n### 3. Entrada de Emerg\u00eancia\n- **15 - FOTO**: Conector da fotoc\u00e9lula, utilizado como entrada de emerg\u00eancia. A fotoc\u00e9lula \u00e9 um dispositivo de seguran\u00e7a que interrompe o funcionamento do motor caso detecte um obst\u00e1culo no caminho.\n\n### 4. M\u00f3dulo Opcional de 8 Fun\u00e7\u00f5es\n- **16 - OP. 8F**: M\u00f3dulo opcional que oferece 8 fun\u00e7\u00f5es adicionais, incluindo trava, luz de garagem, sinaleiro e alarme. Este m\u00f3dulo expande as capacidades do sistema, permitindo personaliza\u00e7\u00f5es conforme as necessidades do usu\u00e1rio.\n\n### 5. Entrada de Alimenta\u00e7\u00e3o\n- **17 - REDE**: Entrada de alimenta\u00e7\u00e3o para tens\u00f5es de 127/220 V. \u00c9 crucial garantir que a tens\u00e3o de entrada esteja correta para evitar danos ao sistema.\n\n### 6. Fios do Motor\n- **18 - PT / AZ / BR**: Fios do motor. Em algumas instala\u00e7\u00f5es, pode ser necess\u00e1rio inverter o fio PT pelo BR para garantir o funcionamento correto do motor.\n\n### 7. Capacitor do Motor\n- **19 - CAP**: Entrada do capacitor do motor. O capacitor \u00e9 essencial para o funcionamento do motor, fornecendo o impulso necess\u00e1rio para iniciar o movimento.\n\n## Caracter\u00edsticas Complementares\n\nEste manual fornece uma vis\u00e3o geral dos componentes principais e suas fun\u00e7\u00f5es em um sistema de controle de motor. Cada componente desempenha um papel crucial na opera\u00e7\u00e3o segura e eficiente do sistema. \u00c9 importante seguir as instru\u00e7\u00f5es de instala\u00e7\u00e3o e opera\u00e7\u00e3o para garantir o desempenho ideal e a longevidade do equipamento.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 458,
+                    "prompt_tokens": 363,
+                    "total_tokens": 821,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-39f2a8ad-f4b6-4e58-b3e1-64375df2aff3-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 363,
+                "output_tokens": 458,
+                "total_tokens": 821,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Caracter\u00edsticas Complementares e Adicionales\n\n## Introdu\u00e7\u00e3o\n\nEste manual tem como objetivo fornecer uma vis\u00e3o abrangente sobre as caracter\u00edsticas complementares e adicionais de um produto ou servi\u00e7o. As caracter\u00edsticas complementares s\u00e3o aquelas que, embora n\u00e3o sejam essenciais, melhoram a experi\u00eancia do usu\u00e1rio ou aumentam a funcionalidade do produto. J\u00e1 as caracter\u00edsticas adicionais s\u00e3o funcionalidades extras que podem ser inclu\u00eddas para atender a necessidades espec\u00edficas dos usu\u00e1rios.\n\n## Caracter\u00edsticas Complementares\n\n### Defini\u00e7\u00e3o\n\nAs caracter\u00edsticas complementares s\u00e3o funcionalidades ou atributos que, embora n\u00e3o sejam essenciais para o funcionamento b\u00e1sico de um produto ou servi\u00e7o, proporcionam benef\u00edcios adicionais ao usu\u00e1rio. Elas podem melhorar a usabilidade, a est\u00e9tica ou a efici\u00eancia do produto.\n\n### Exemplos\n\n1. **Interface de Usu\u00e1rio Amig\u00e1vel**: Uma interface intuitiva que facilita a navega\u00e7\u00e3o e o uso do produto.\n2. **Design Ergon\u00f4mico**: Produtos projetados para serem confort\u00e1veis e f\u00e1ceis de usar.\n3. **Compatibilidade com Dispositivos**: Capacidade de funcionar em diferentes plataformas e dispositivos.\n4. **Suporte ao Cliente**: Disponibilidade de assist\u00eancia ao usu\u00e1rio para resolver problemas ou d\u00favidas.\n5. **Atualiza\u00e7\u00f5es Regulares**: Melhorias cont\u00ednuas no produto para corrigir bugs e adicionar novas funcionalidades.\n\n### Benef\u00edcios\n\n- **Melhoria na Experi\u00eancia do Usu\u00e1rio**: Tornam o uso do produto mais agrad\u00e1vel e eficiente.\n- **Aumento da Satisfa\u00e7\u00e3o do Cliente**: Clientes satisfeitos s\u00e3o mais propensos a continuar usando o produto e recomend\u00e1-lo a outros.\n- **Diferencia\u00e7\u00e3o no Mercado**: Produtos com caracter\u00edsticas complementares podem se destacar em um mercado competitivo.\n\n## Caracter\u00edsticas Adicionales\n\n### Defini\u00e7\u00e3o\n\nAs caracter\u00edsticas adicionais s\u00e3o funcionalidades extras que n\u00e3o s\u00e3o necess\u00e1rias para o funcionamento b\u00e1sico do produto, mas que podem ser inclu\u00eddas para atender a necessidades espec\u00edficas de determinados usu\u00e1rios ou mercados.\n\n### Exemplos\n\n1. **Funcionalidades Avan\u00e7adas**: Recursos que oferecem capacidades al\u00e9m do b\u00e1sico, como an\u00e1lises detalhadas ou personaliza\u00e7\u00e3o avan\u00e7ada.\n2. **Integra\u00e7\u00f5es com Outros Sistemas**: Capacidade de se conectar e operar com outros softwares ou plataformas.\n3. **Op\u00e7\u00f5es de Personaliza\u00e7\u00e3o**: Permitir que o usu\u00e1rio ajuste o produto de acordo com suas prefer\u00eancias pessoais.\n4. **Seguran\u00e7a Avan\u00e7ada**: Medidas adicionais para proteger dados e informa\u00e7\u00f5es do usu\u00e1rio.\n5. **Suporte Multil\u00edngue**: Disponibilidade do produto em v\u00e1rios idiomas para atender a um p\u00fablico global.\n\n### Benef\u00edcios\n\n- **Atendimento a Nichos de Mercado**: Permitem que o produto atenda a segmentos espec\u00edficos do mercado com necessidades \u00fanicas.\n- **Aumento do Valor Percebido**: Funcionalidades adicionais podem justificar um pre\u00e7o mais alto.\n- **Fideliza\u00e7\u00e3o de Clientes**: Oferecer mais op\u00e7\u00f5es pode aumentar a lealdade do cliente ao produto.\n\n## Implementa\u00e7\u00e3o\n\n### Estrat\u00e9gias\n\n1. **Pesquisa de Mercado**: Identificar quais caracter\u00edsticas s\u00e3o mais valorizadas pelos usu\u00e1rios.\n2. **Feedback do Usu\u00e1rio**: Coletar opini\u00f5es dos usu\u00e1rios atuais para entender suas necessidades e desejos.\n3. **An\u00e1lise de Concorr\u00eancia**: Estudar produtos concorrentes para identificar lacunas e oportunidades de diferencia\u00e7\u00e3o.\n4. **Prototipagem e Testes**: Desenvolver prot\u00f3tipos das novas caracter\u00edsticas e test\u00e1-los com usu\u00e1rios reais para obter feedback.\n\n### Desafios\n\n- **Custo de Desenvolvimento**: Adicionar novas caracter\u00edsticas pode aumentar os custos de desenvolvimento e manuten\u00e7\u00e3o.\n- **Complexidade do Produto**: Muitas caracter\u00edsticas podem tornar o produto mais complexo e dif\u00edcil de usar.\n- **Equil\u00edbrio entre Funcionalidade e Usabilidade**: Garantir que as novas caracter\u00edsticas n\u00e3o comprometam a usabilidade do produto.\n\n## Conclus\u00e3o\n\nAs caracter\u00edsticas complementares e adicionais desempenham um papel crucial na diferencia\u00e7\u00e3o de produtos e na satisfa\u00e7\u00e3o do cliente. Ao implementar essas caracter\u00edsticas, \u00e9 importante equilibrar os benef\u00edcios com os custos e a complexidade adicional. Atrav\u00e9s de uma pesquisa cuidadosa e do feedback dos usu\u00e1rios, as empresas podem desenvolver produtos que n\u00e3o apenas atendem \u00e0s necessidades b\u00e1sicas, mas tamb\u00e9m encantam e fidelizam seus clientes.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 869,
+                    "prompt_tokens": 96,
+                    "total_tokens": 965,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-1812aee6-11aa-4e78-9c4b-c1560130b9fe-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 96,
+                "output_tokens": 869,
+                "total_tokens": 965,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual do Sistema de Controle com Microcontrolador ARM\u00ae\n\n## Introdu\u00e7\u00e3o\n\nEste manual fornece uma vis\u00e3o geral das caracter\u00edsticas e funcionalidades de um sistema de controle baseado em um microcontrolador ARM\u00ae de 32 bits. O sistema \u00e9 projetado para oferecer controle preciso e eficiente, incorporando v\u00e1rias caracter\u00edsticas avan\u00e7adas, como um receptor heter\u00f3dino, ajustes por jumpers e bot\u00f5es, e funcionalidades de desacelera\u00e7\u00e3o e frenagem eletr\u00f4nica.\n\n## Especifica\u00e7\u00f5es do Microcontrolador\n\n- **Microcontrolador ARM\u00ae**: \n  - Arquitetura de 32 bits.\n  - Processamento a 48 MHz.\n  - Oferece alta performance e efici\u00eancia energ\u00e9tica.\n\n## Receptor Heter\u00f3dino\n\n- **Estabilidade de Frequ\u00eancia**: \n  - O receptor heter\u00f3dino \u00e9 projetado para manter a calibra\u00e7\u00e3o de frequ\u00eancia, garantindo uma opera\u00e7\u00e3o confi\u00e1vel e precisa.\n\n## Ajustes e Configura\u00e7\u00f5es\n\n- **Ajustes Principais**:\n  - Realizados atrav\u00e9s de jumpers em conjunto com bot\u00f5es, permitindo uma configura\u00e7\u00e3o flex\u00edvel e adapt\u00e1vel \u00e0s necessidades do usu\u00e1rio.\n\n- **Ajuste de Rampa de Chegada**:\n  - Implementa desacelera\u00e7\u00e3o eletr\u00f4nica para suavizar a parada do motor, aumentando a vida \u00fatil do sistema e melhorando a seguran\u00e7a operacional.\n\n## Funcionalidades Eletr\u00f4nicas\n\n- **Freio Eletr\u00f4nico**:\n  - Inclui a op\u00e7\u00e3o de desabilitar o freio, oferecendo ao usu\u00e1rio controle sobre o comportamento do sistema em diferentes situa\u00e7\u00f5es operacionais.\n\n- **Embreagem Eletr\u00f4nica**:\n  - Permite o ajuste da for\u00e7a do motor durante o funcionamento, proporcionando um controle preciso sobre a pot\u00eancia e o desempenho do motor.\n\n## Ajuste de Fechamento Autom\u00e1tico\n\n- **Jumper PAUSA**:\n  - Utilizado para configurar o ajuste de fechamento autom\u00e1tico, permitindo que o sistema seja programado para fechar automaticamente ap\u00f3s um determinado per\u00edodo de tempo.\n\n## Conclus\u00e3o\n\nEste sistema de controle com microcontrolador ARM\u00ae \u00e9 ideal para aplica\u00e7\u00f5es que requerem alta precis\u00e3o e confiabilidade. Com suas funcionalidades avan\u00e7adas e op\u00e7\u00f5es de ajuste, ele oferece uma solu\u00e7\u00e3o robusta e flex\u00edvel para uma ampla gama de aplica\u00e7\u00f5es.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 455,
+                    "prompt_tokens": 323,
+                    "total_tokens": 778,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-2bdb7650-0aec-4c8d-957a-61a78b985782-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 323,
+                "output_tokens": 455,
+                "total_tokens": 778,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Opera\u00e7\u00e3o e Configura\u00e7\u00e3o\n\n## Introdu\u00e7\u00e3o\n\nEste manual fornece instru\u00e7\u00f5es detalhadas sobre a opera\u00e7\u00e3o e configura\u00e7\u00e3o de um sistema de controle eletr\u00f4nico para motores, com \u00eanfase em seguran\u00e7a e efici\u00eancia. O sistema inclui v\u00e1rias funcionalidades para ajuste e prote\u00e7\u00e3o, garantindo um desempenho confi\u00e1vel.\n\n## Funcionalidades Principais\n\n### Embrague Electr\u00f3nico\n\n- **Ajuste de Pot\u00eancia do Motor**: Permite o ajuste da pot\u00eancia do motor durante o funcionamento, garantindo um controle preciso e eficiente.\n\n### Ajuste de Fechamento Autom\u00e1tico\n\n- **Jumper PAUSA**: Configura\u00e7\u00e3o que permite ajustar o tempo de pausa antes do fechamento autom\u00e1tico do sistema.\n\n### Prote\u00e7\u00e3o Contra Sobrecarga\n\n- **Varistor e Fus\u00edvel de Prote\u00e7\u00e3o**: Dispositivos que atuam em caso de descarga atmosf\u00e9rica e sobrecarga, protegendo o sistema de danos el\u00e9tricos.\n\n## Programa\u00e7\u00e3o e Configura\u00e7\u00e3o\n\n### Bot\u00f5es de Programa\u00e7\u00e3o\n\n- **Programa\u00e7\u00e3o Independente**: O sistema possui dois bot\u00f5es de programa\u00e7\u00e3o que permitem a configura\u00e7\u00e3o independente de transmissores e curso, facilitando a personaliza\u00e7\u00e3o do funcionamento.\n\n### Entrada para Fotoc\u00e9lula\n\n- **Conector Polarizado**: A entrada para fotoc\u00e9lula \u00e9 equipada com um conector polarizado, evitando conex\u00f5es invertidas e garantindo a correta instala\u00e7\u00e3o.\n\n## Seguran\u00e7a e Prote\u00e7\u00e3o\n\n### Prote\u00e7\u00f5es nas Entradas\n\n- **Fim de Curso e Botoeira**: As entradas s\u00e3o protegidas para minimizar o risco de danos ao circuito, aumentando a durabilidade e a seguran\u00e7a do sistema.\n\n### Indica\u00e7\u00e3o de Estado\n\n- **LEDs de Fim de Curso**: LEDs indicam o estado dos finais de curso, proporcionando uma visualiza\u00e7\u00e3o clara e imediata do status do sistema.\n\n## Conclus\u00e3o\n\nEste sistema de controle eletr\u00f4nico \u00e9 projetado para oferecer um alto n\u00edvel de personaliza\u00e7\u00e3o e prote\u00e7\u00e3o, garantindo um funcionamento seguro e eficiente. Siga as instru\u00e7\u00f5es de configura\u00e7\u00e3o e opera\u00e7\u00e3o para maximizar o desempenho e a longevidade do sistema.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 421,
+                    "prompt_tokens": 331,
+                    "total_tokens": 752,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-e971bb2a-b491-4e51-9b11-262980b48a07-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 331,
+                "output_tokens": 421,
+                "total_tokens": 752,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Opera\u00e7\u00e3o e Instala\u00e7\u00e3o\n\n## Introdu\u00e7\u00e3o\n\nEste manual fornece informa\u00e7\u00f5es detalhadas sobre a instala\u00e7\u00e3o e opera\u00e7\u00e3o dos componentes do sistema, incluindo LEDs de fim de curso, conectores, sa\u00edda para placa 8F e entrada de botoeira independente.\n\n## Componentes do Sistema\n\n### LEDs de Fim de Curso\n\n- **Fun\u00e7\u00e3o**: Sinalizam o estado dos finais de curso, indicando se o sistema atingiu o ponto final de opera\u00e7\u00e3o.\n- **Indica\u00e7\u00f5es**: \n  - LED aceso: Fim de curso atingido.\n  - LED apagado: Sistema em opera\u00e7\u00e3o ou n\u00e3o atingiu o fim de curso.\n\n### Conectores para Fim de Curso\n\n- **Descri\u00e7\u00e3o**: O sistema possui dois conectores para a conex\u00e3o dos sensores de fim de curso.\n- **Especifica\u00e7\u00f5es**:\n  - **Conector de 5 pinos**: Utilizado para conex\u00f5es mais complexas que requerem m\u00faltiplos sinais.\n  - **Conector de 3 pinos**: Utilizado para conex\u00f5es simples.\n\n### Sa\u00edda para Placa 8F\n\n- **Fun\u00e7\u00f5es Agregadas**:\n  - **Luz de Garagem**: Controla a ilumina\u00e7\u00e3o da garagem, ativando-a conforme necess\u00e1rio.\n  - **Trava Magn\u00e9tica**: Gerencia a ativa\u00e7\u00e3o de travas magn\u00e9ticas para seguran\u00e7a adicional.\n  - **Sinaleiro**: Indica o status do sistema atrav\u00e9s de sinais visuais.\n  - **Alarme**: Emite alertas sonoros em caso de falhas ou eventos espec\u00edficos.\n\n### Entrada de Botoeira Independente\n\n- **Descri\u00e7\u00e3o**: Permite a conex\u00e3o de uma botoeira (bot\u00e3o de controle) que opera de forma independente do restante do sistema.\n- **Utiliza\u00e7\u00e3o**: Ideal para comandos manuais ou de emerg\u00eancia, permitindo a opera\u00e7\u00e3o direta do sistema.\n\n## Instala\u00e7\u00e3o\n\n### Procedimento Geral\n\n1. **Verifica\u00e7\u00e3o de Componentes**: Antes de iniciar a instala\u00e7\u00e3o, verifique se todos os componentes est\u00e3o presentes e em boas condi\u00e7\u00f5es.\n2. **Conex\u00e3o dos Fios**: Utilize os conectores apropriados para ligar os sensores de fim de curso e outros dispositivos.\n3. **Configura\u00e7\u00e3o da Placa 8F**: Configure as fun\u00e7\u00f5es desejadas na placa 8F conforme as necessidades do sistema.\n4. **Teste de Opera\u00e7\u00e3o**: Ap\u00f3s a instala\u00e7\u00e3o, realize testes para garantir que todos os componentes est\u00e3o funcionando corretamente.\n\n## Opera\u00e7\u00e3o\n\n- **Monitoramento**: Utilize os LEDs de fim de curso para monitorar o status do sistema.\n- **Controle Manual**: Utilize a botoeira independente para opera\u00e7\u00f5es manuais ou em situa\u00e7\u00f5es de emerg\u00eancia.\n- **Manuten\u00e7\u00e3o**: Realize verifica\u00e7\u00f5es peri\u00f3dicas para garantir a continuidade do funcionamento adequado do sistema.\n\n## Seguran\u00e7a\n\n- **Desligamento**: Sempre desligue o sistema antes de realizar qualquer manuten\u00e7\u00e3o ou ajuste.\n- **Verifica\u00e7\u00e3o de Conex\u00f5es**: Certifique-se de que todas as conex\u00f5es est\u00e3o firmes e seguras para evitar falhas.\n\n## Conclus\u00e3o\n\nEste manual fornece as informa\u00e7\u00f5es necess\u00e1rias para a instala\u00e7\u00e3o e opera\u00e7\u00e3o eficaz dos componentes do sistema. Siga as instru\u00e7\u00f5es cuidadosamente para garantir um desempenho seguro e eficiente.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 669,
+                    "prompt_tokens": 243,
+                    "total_tokens": 912,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-10de6658-7fa7-47f0-9ef0-07cff44c2ddc-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 243,
+                "output_tokens": 669,
+                "total_tokens": 912,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Programa\u00e7\u00e3o do Port\u00e3o Autom\u00e1tico\n\n## Introdu\u00e7\u00e3o\n\nEste manual fornece instru\u00e7\u00f5es detalhadas sobre como programar o curso de um port\u00e3o autom\u00e1tico utilizando o bot\u00e3o CURSO. Este procedimento \u00e9 essencial para garantir que o port\u00e3o funcione corretamente, abrindo e fechando completamente conforme necess\u00e1rio.\n\n## Requisitos\n\n- Certifique-se de que a rampa do port\u00e3o est\u00e1 habilitada antes de iniciar o processo de programa\u00e7\u00e3o.\n- Tenha em m\u00e3os o controle remoto programado para operar o port\u00e3o.\n\n## Procedimento de Programa\u00e7\u00e3o\n\n### Passo 1: Iniciar a Programa\u00e7\u00e3o\n\n1. **Pressionar o Bot\u00e3o CURSO (+):** \n   - Localize o bot\u00e3o CURSO no painel de controle do port\u00e3o.\n   - Pressione o bot\u00e3o. O LED indicador come\u00e7ar\u00e1 a piscar 5 vezes e, em seguida, permanecer\u00e1 aceso, indicando que o modo de programa\u00e7\u00e3o foi ativado.\n\n### Passo 2: Fechar o Port\u00e3o\n\n2. **Fechamento Completo do Port\u00e3o:**\n   - Se o port\u00e3o n\u00e3o estiver completamente fechado, utilize o controle remoto programado para acionar o fechamento do port\u00e3o.\n   - O port\u00e3o deve mover-se at\u00e9 atingir o fim de curso de fechamento.\n\n### Passo 3: Abrir o Port\u00e3o\n\n3. **Abertura Completa do Port\u00e3o:**\n   - Ap\u00f3s o port\u00e3o estar completamente fechado, acione novamente o controle remoto para iniciar a abertura do port\u00e3o.\n   - O port\u00e3o deve mover-se at\u00e9 atingir o fim de curso de abertura.\n\n### Passo 4: Fechar o Port\u00e3o Novamente\n\n4. **Fechamento Completo do Port\u00e3o:**\n   - Acione o controle remoto mais uma vez para fechar o port\u00e3o completamente.\n   - Quando o port\u00e3o atingir o fim de curso de fechamento, o LED indicador piscar\u00e1 3 vezes, sinalizando que a programa\u00e7\u00e3o foi conclu\u00edda com sucesso.\n   - O LED ent\u00e3o se apagar\u00e1, indicando que o port\u00e3o est\u00e1 pronto para uso normal.\n\n## Considera\u00e7\u00f5es Finais\n\n- Certifique-se de que o port\u00e3o n\u00e3o encontre obstru\u00e7\u00f5es durante o processo de programa\u00e7\u00e3o, pois isso pode interferir na grava\u00e7\u00e3o dos cursos de abertura e fechamento.\n- Caso o LED n\u00e3o pisque conforme descrito, ou se o port\u00e3o n\u00e3o operar corretamente ap\u00f3s a programa\u00e7\u00e3o, revise os passos e tente novamente.\n- Para garantir a seguran\u00e7a, mantenha pessoas e objetos afastados do port\u00e3o durante o processo de programa\u00e7\u00e3o.\n\nEste manual deve ser seguido cuidadosamente para assegurar o funcionamento correto e seguro do port\u00e3o autom\u00e1tico. Em caso de d\u00favidas ou problemas persistentes, consulte o suporte t\u00e9cnico especializado.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 552,
+                    "prompt_tokens": 243,
+                    "total_tokens": 795,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-981503df-53e8-4032-af65-88a2c54c8b07-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 243,
+                "output_tokens": 552,
+                "total_tokens": 795,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Programaci\u00f3n del Curso del Port\u00f3n\n\nEste manual proporciona instrucciones detalladas para programar el curso del port\u00f3n utilizando el bot\u00f3n CURSO (+). Siga los pasos cuidadosamente para asegurar una programaci\u00f3n exitosa.\n\n## Requisitos Previos\n\n- Aseg\u00farese de que la rampa est\u00e9 habilitada antes de comenzar el proceso de programaci\u00f3n.\n- Verifique que el port\u00f3n est\u00e9 completamente cerrado antes de iniciar la grabaci\u00f3n del curso.\n\n## Instrucciones de Programaci\u00f3n\n\n### Paso 1: Iniciar el Modo de Programaci\u00f3n\n\n1. **Presionar el Bot\u00f3n CURSO (+):** \n   - Localice el bot\u00f3n CURSO (+) en el dispositivo de control del port\u00f3n.\n   - Presione el bot\u00f3n. El LED asociado parpadear\u00e1 5 veces y luego permanecer\u00e1 encendido, indicando que el modo de programaci\u00f3n ha comenzado.\n\n### Paso 2: Grabar el Curso del Port\u00f3n\n\n2. **Cerrar el Port\u00f3n:**\n   - Si el port\u00f3n no est\u00e1 completamente cerrado, utilice el bot\u00f3n programado en el control remoto para cerrarlo completamente hasta el final de la carrera de cierre.\n\n3. **Abrir el Port\u00f3n:**\n   - Presione nuevamente el bot\u00f3n programado en el control remoto para abrir el port\u00f3n completamente hasta el final del recorrido de apertura.\n\n4. **Cerrar el Port\u00f3n Nuevamente:**\n   - Presione el bot\u00f3n programado en el control remoto una vez m\u00e1s para cerrar el port\u00f3n completamente.\n   - Al llegar al final de la carrera de cierre, el LED parpadear\u00e1 3 veces, indicando que la programaci\u00f3n ha finalizado exitosamente, y luego se apagar\u00e1.\n\n### Paso 3: Salir del Modo de Programaci\u00f3n\n\n5. **Finalizar la Grabaci\u00f3n del Curso:**\n   - Si necesita salir del modo de grabaci\u00f3n del curso antes de completar el proceso, presione el bot\u00f3n CURSO (+) nuevamente.\n   - El LED parpadear\u00e1 dos veces y luego permanecer\u00e1 apagado, indicando que ha salido del modo de programaci\u00f3n.\n\n## Notas Adicionales\n\n- **Indicador LED:** Durante todo el proceso de grabaci\u00f3n del curso, el LED permanecer\u00e1 encendido para indicar que el dispositivo est\u00e1 en modo de programaci\u00f3n.\n- **Repetici\u00f3n del Proceso:** Si el proceso de programaci\u00f3n no se completa correctamente, repita los pasos desde el inicio.\n\nEste manual debe ser seguido cuidadosamente para asegurar que el port\u00f3n funcione correctamente despu\u00e9s de la programaci\u00f3n. Si encuentra problemas durante el proceso, consulte con un t\u00e9cnico especializado para obtener asistencia adicional.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 528,
+                    "prompt_tokens": 288,
+                    "total_tokens": 816,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_4691090a87",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-ed64167f-6b29-49e6-82fe-10f2b287010d-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 288,
+                "output_tokens": 528,
+                "total_tokens": 816,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Opera\u00e7\u00e3o do Modo de Grava\u00e7\u00e3o de Curso\n\n## Introdu\u00e7\u00e3o\n\nEste manual fornece instru\u00e7\u00f5es detalhadas sobre como operar o modo de grava\u00e7\u00e3o de curso de um dispositivo espec\u00edfico. O foco principal \u00e9 garantir que o usu\u00e1rio possa iniciar e encerrar o modo de grava\u00e7\u00e3o de forma eficaz, utilizando os indicadores visuais fornecidos pelo LED do dispositivo.\n\n## Instru\u00e7\u00f5es de Opera\u00e7\u00e3o\n\n### Iniciando o Modo de Grava\u00e7\u00e3o\n\n1. **Pressionar o Bot\u00e3o CURSO (+):** \n   - Para iniciar o modo de grava\u00e7\u00e3o do curso, pressione o bot\u00e3o identificado como CURSO (+).\n   - Durante o modo de grava\u00e7\u00e3o, o LED do dispositivo permanecer\u00e1 aceso continuamente, indicando que a grava\u00e7\u00e3o est\u00e1 em andamento.\n\n### Encerrando o Modo de Grava\u00e7\u00e3o\n\n1. **Pressionar o Bot\u00e3o CURSO (+) Novamente:**\n   - Para sair do modo de grava\u00e7\u00e3o, pressione novamente o bot\u00e3o CURSO (+).\n   - O LED ir\u00e1 piscar duas vezes e, em seguida, permanecer\u00e1 apagado, confirmando que o modo de grava\u00e7\u00e3o foi encerrado com sucesso.\n\n## Indicadores Visuais\n\n- **LED Aceso:** Indica que o dispositivo est\u00e1 no modo de grava\u00e7\u00e3o de curso.\n- **LED Piscando Duas Vezes:** Indica que o dispositivo est\u00e1 saindo do modo de grava\u00e7\u00e3o.\n- **LED Apagado:** Indica que o dispositivo n\u00e3o est\u00e1 no modo de grava\u00e7\u00e3o.\n\n## Considera\u00e7\u00f5es Finais\n\n- Certifique-se de que o LED est\u00e1 aceso durante todo o tempo de grava\u00e7\u00e3o para garantir que o dispositivo est\u00e1 capturando o curso corretamente.\n- Utilize os indicadores visuais do LED para monitorar o status do modo de grava\u00e7\u00e3o e garantir que as opera\u00e7\u00f5es desejadas est\u00e3o sendo realizadas.\n\nEste manual deve ser utilizado como refer\u00eancia para garantir o uso correto do modo de grava\u00e7\u00e3o de curso, assegurando que todas as opera\u00e7\u00f5es sejam realizadas de forma eficiente e sem erros.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 411,
+                    "prompt_tokens": 188,
+                    "total_tokens": 599,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-31cac666-e79e-4769-900e-d608baf6cc7c-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 188,
+                "output_tokens": 411,
+                "total_tokens": 599,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Programa\u00e7\u00e3o do Transmissor (Controle Remoto)\n\nEste manual fornece instru\u00e7\u00f5es detalhadas para a programa\u00e7\u00e3o de um transmissor (controle remoto) em uma central. Siga os passos abaixo para garantir que o controle remoto seja programado corretamente.\n\n## Passos para Programa\u00e7\u00e3o\n\n1. **Iniciar o Processo de Programa\u00e7\u00e3o:**\n   - Pressione e solte o bot\u00e3o **TX (-)** localizado na central.\n   - Observe que o LED da central ir\u00e1 piscar e, em seguida, permanecer aceso, indicando que a central est\u00e1 pronta para receber o sinal do controle remoto.\n\n2. **Programar o Controle Remoto:**\n   - Pressione e solte o bot\u00e3o do controle remoto que deseja programar.\n   - O LED da central ir\u00e1 piscar por alguns segundos, indicando que o sinal do controle remoto foi recebido.\n\n3. **Confirmar o Cadastro:**\n   - Enquanto o LED da central ainda estiver piscando, pressione novamente o bot\u00e3o **TX (-)** da central.\n   - Esta a\u00e7\u00e3o confirma o cadastro do controle remoto. Se n\u00e3o for confirmada, o controle remoto ser\u00e1 descartado e o LED permanecer\u00e1 aceso.\n\n4. **Finalizar a Programa\u00e7\u00e3o:**\n   - Ap\u00f3s programar todos os controles remotos necess\u00e1rios, voc\u00ea pode:\n     - Aguardar 8 segundos para que a central finalize automaticamente o processo de programa\u00e7\u00e3o.\n     - Ou, pressionar o bot\u00e3o **TX (-)** da central enquanto o LED ainda estiver aceso para finalizar manualmente o processo.\n\n## Notas Importantes\n\n- Certifique-se de seguir cada passo na ordem correta para garantir que o controle remoto seja programado com sucesso.\n- Se o LED n\u00e3o piscar ou permanecer aceso conforme descrito, verifique se o bot\u00e3o **TX (-)** foi pressionado corretamente e se o controle remoto est\u00e1 funcionando.\n- Caso o controle remoto n\u00e3o seja programado, repita o processo desde o in\u00edcio.\n\nEste manual deve ser seguido sempre que for necess\u00e1rio programar um novo controle remoto na central.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 406,
+                    "prompt_tokens": 201,
+                    "total_tokens": 607,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-6c5cb6ae-ea4e-4139-b638-937cf5ff1369-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 201,
+                "output_tokens": 406,
+                "total_tokens": 607,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Programaci\u00f3n y Borrado de Memoria del Transmisor\n\n## Programaci\u00f3n del Transmisor (Control Remoto)\n\nPara programar un control remoto en la central, siga los siguientes pasos:\n\n1. **Activar Modo de Programaci\u00f3n:**\n   - Presione y suelte el bot\u00f3n TX (-) en la central.\n   - El LED de la central comenzar\u00e1 a parpadear y luego permanecer\u00e1 encendido.\n\n2. **Registrar el Control Remoto:**\n   - Presione y suelte el bot\u00f3n del control remoto que desea programar.\n   - El LED parpadear\u00e1 durante unos segundos.\n\n3. **Confirmar el Registro:**\n   - Mientras el LED est\u00e1 parpadeando, presione nuevamente el bot\u00f3n TX (-) de la central para confirmar el registro.\n   - Si no se confirma este procedimiento, el control remoto no ser\u00e1 registrado y el LED permanecer\u00e1 encendido.\n\n4. **Finalizar la Programaci\u00f3n:**\n   - Despu\u00e9s de programar todos los controles remotos necesarios, espere 8 segundos o presione el bot\u00f3n TX (-) de la central mientras el LED est\u00e1 encendido para salir del modo de programaci\u00f3n.\n\n## Borrado Completo de la Memoria\n\nPara borrar toda la memoria de la central, siga estos pasos:\n\n1. **Activar Modo de Borrado:**\n   - Presione y suelte el bot\u00f3n TX (-) de la central.\n   - El LED comenzar\u00e1 a parpadear y luego permanecer\u00e1 encendido.\n\n2. **Ejecutar el Borrado:**\n   - Mantenga presionado el bot\u00f3n TX (-) de la central hasta que el LED comience a parpadear r\u00e1pidamente.\n\n3. **Confirmar el Borrado:**\n   - Cuando el LED permanezca encendido, indica que la memoria est\u00e1 vac\u00eda.\n   - Presione el bot\u00f3n TX (-) nuevamente o espere a que el LED se apague para completar el proceso de borrado.\n\nEste manual proporciona las instrucciones necesarias para programar y borrar la memoria de los controles remotos en la central. Aseg\u00farese de seguir cada paso cuidadosamente para garantizar un funcionamiento correcto.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 443,
+                    "prompt_tokens": 298,
+                    "total_tokens": 741,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-667d433f-cc65-463f-81cf-b177b3ecdefd-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 298,
+                "output_tokens": 443,
+                "total_tokens": 741,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Opera\u00e7\u00e3o e Configura\u00e7\u00e3o\n\n## Introdu\u00e7\u00e3o\n\nEste manual fornece instru\u00e7\u00f5es detalhadas sobre como operar e configurar a central de controle, incluindo o processo de limpeza da mem\u00f3ria e a utiliza\u00e7\u00e3o do jumper BOT para adicionar uma botoeira.\n\n## Limpeza da Mem\u00f3ria\n\nPara apagar toda a mem\u00f3ria da central, siga os passos abaixo:\n\n1. **Pressionar o Bot\u00e3o TX (-):** \n   - Localize o bot\u00e3o TX (-) na central.\n   - Pressione e solte o bot\u00e3o. O LED da central come\u00e7ar\u00e1 a piscar e, em seguida, permanecer\u00e1 aceso.\n\n2. **Manter o Bot\u00e3o Pressionado:**\n   - Mantenha o bot\u00e3o TX (-) pressionado at\u00e9 que o LED comece a piscar rapidamente.\n\n3. **Indica\u00e7\u00e3o de Mem\u00f3ria Vazia:**\n   - Quando o LED permanecer aceso, isso indica que a mem\u00f3ria foi completamente apagada.\n   - Para finalizar, pressione novamente o bot\u00e3o TX (-) ou aguarde at\u00e9 que o LED se apague.\n\n### Observa\u00e7\u00f5es Importantes\n\n- **Mem\u00f3ria Cheia:**\n  - Se o LED n\u00e3o piscar ao pressionar o bot\u00e3o do controle remoto, isso significa que a mem\u00f3ria est\u00e1 cheia e precisa ser limpa antes de adicionar novos dispositivos.\n\n## Jumper BOT\n\nO jumper BOT \u00e9 utilizado para adicionar uma botoeira \u00e0 central, que funcionar\u00e1 como um controle remoto. Isso permite que a botoeira atue diretamente na central, oferecendo uma alternativa ao uso do controle remoto tradicional.\n\n### Instru\u00e7\u00f5es para Uso do Jumper BOT\n\n1. **Localiza\u00e7\u00e3o do Jumper:**\n   - Identifique o jumper BOT na placa da central.\n\n2. **Conex\u00e3o da Botoeira:**\n   - Conecte a botoeira ao jumper BOT conforme as especifica\u00e7\u00f5es do fabricante.\n\n3. **Teste de Funcionamento:**\n   - Ap\u00f3s a conex\u00e3o, teste a botoeira para garantir que ela est\u00e1 operando corretamente como um controle remoto.\n\n## Conclus\u00e3o\n\nEste manual fornece as informa\u00e7\u00f5es necess\u00e1rias para a opera\u00e7\u00e3o b\u00e1sica e configura\u00e7\u00e3o da central de controle, incluindo a limpeza da mem\u00f3ria e a adi\u00e7\u00e3o de uma botoeira atrav\u00e9s do jumper BOT. Siga cuidadosamente as instru\u00e7\u00f5es para garantir o funcionamento correto e eficiente do sistema.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 466,
+                    "prompt_tokens": 253,
+                    "total_tokens": 719,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-32505cc3-76c0-4514-9a72-480e8051ed56-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 253,
+                "output_tokens": 466,
+                "total_tokens": 719,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Configura\u00e7\u00e3o de Jumpers para Controle de Motores\n\nEste manual fornece instru\u00e7\u00f5es detalhadas sobre a configura\u00e7\u00e3o de jumpers em sistemas de controle de motores, especificamente para a adi\u00e7\u00e3o de botoeiras e sele\u00e7\u00e3o de tipos de motores. As instru\u00e7\u00f5es s\u00e3o aplic\u00e1veis a sistemas que utilizam controles remotos e motores do tipo basculante e deslizante.\n\n## 1. Jumper BOT: Adi\u00e7\u00e3o de Botoeira\n\n### Fun\u00e7\u00e3o\nO Jumper BOT \u00e9 utilizado para adicionar uma botoeira ao sistema, permitindo que ela atue como um controle remoto. Isso \u00e9 \u00fatil em situa\u00e7\u00f5es onde o controle manual \u00e9 necess\u00e1rio ou preferido.\n\n### Configura\u00e7\u00e3o\n- **Instala\u00e7\u00e3o**: Conecte o jumper BOT no local designado na placa de controle.\n- **Verifica\u00e7\u00e3o**: Ap\u00f3s a instala\u00e7\u00e3o, teste a botoeira para garantir que ela est\u00e1 funcionando corretamente como um controle remoto.\n\n## 2. Jumper BV/DZ: Sele\u00e7\u00e3o do Tipo de Motor\n\n### Fun\u00e7\u00e3o\nO Jumper BV/DZ \u00e9 utilizado para selecionar o tipo de motor que ser\u00e1 controlado pelo sistema. A configura\u00e7\u00e3o correta do jumper \u00e9 crucial, pois as rampas de acelera\u00e7\u00e3o e desacelera\u00e7\u00e3o variam entre motores basculantes (BV) e deslizantes (DZ).\n\n### Configura\u00e7\u00e3o\n\n#### Motores Deslizantes (DZ)\n- **Jumper Aberto**: Quando o jumper BV/DZ est\u00e1 aberto, a central de controle aplica uma rampa de acelera\u00e7\u00e3o e desacelera\u00e7\u00e3o igual tanto na abertura quanto no fechamento do port\u00e3o.\n- **Aplica\u00e7\u00e3o**: Esta configura\u00e7\u00e3o \u00e9 ideal para motores deslizantes, onde uma opera\u00e7\u00e3o uniforme \u00e9 desejada.\n\n#### Motores Basculantes (BV)\n- **Jumper Fechado**: Quando o jumper BV/DZ est\u00e1 fechado, a central de controle aplica uma rampa menor durante a abertura e uma rampa maior durante o fechamento.\n- **Aplica\u00e7\u00e3o**: Esta configura\u00e7\u00e3o \u00e9 adequada para motores basculantes, onde uma desacelera\u00e7\u00e3o mais controlada \u00e9 necess\u00e1ria ao fechar.\n\n### Ajustes Adicionais\n- **Configura\u00e7\u00e3o da Rampa**: Certifique-se de que a rampa est\u00e1 ajustada para a melhor configura\u00e7\u00e3o de acordo com o tipo de motor e as necessidades operacionais.\n- **Programa\u00e7\u00e3o do Tempo de Abertura/Fechamento**: Execute o procedimento de programa\u00e7\u00e3o para definir o tempo de abertura e fechamento (percurso) do motor. Isso garante que o motor opere dentro dos par\u00e2metros desejados.\n\n## Considera\u00e7\u00f5es Finais\n\n- **Seguran\u00e7a**: Sempre desligue a energia antes de realizar qualquer ajuste nos jumpers para evitar choques el\u00e9tricos ou danos ao equipamento.\n- **Teste**: Ap\u00f3s qualquer altera\u00e7\u00e3o na configura\u00e7\u00e3o dos jumpers, teste o sistema para garantir que todas as fun\u00e7\u00f5es est\u00e3o operando conforme esperado.\n- **Manuten\u00e7\u00e3o**: Realize verifica\u00e7\u00f5es regulares para garantir que os jumpers e conex\u00f5es estejam firmes e livres de corros\u00e3o ou danos.\n\nEste manual deve ser utilizado como guia para a configura\u00e7\u00e3o e ajuste de sistemas de controle de motores, garantindo uma opera\u00e7\u00e3o eficiente e segura.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 638,
+                    "prompt_tokens": 242,
+                    "total_tokens": 880,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-dcbd0ab0-f5b2-475f-b1dd-51045b5029d9-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 242,
+                "output_tokens": 638,
+                "total_tokens": 880,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Configura\u00e7\u00e3o de Jumpers para Centrais de Motores\n\nEste manual fornece instru\u00e7\u00f5es detalhadas sobre como configurar os jumpers em centrais de controle para motores de port\u00f5es, especificamente para os modelos BV (basculantes) e DZ (deslizantes). A configura\u00e7\u00e3o correta dos jumpers \u00e9 essencial para garantir o funcionamento adequado e seguro dos motores.\n\n## Jumper BV/DZ\n\n### Fun\u00e7\u00e3o\nO jumper BV/DZ \u00e9 utilizado para selecionar o tipo de motor que ser\u00e1 controlado pela central, uma vez que as rampas de acelera\u00e7\u00e3o e desacelera\u00e7\u00e3o variam entre motores basculantes (BV) e deslizantes (DZ).\n\n### Configura\u00e7\u00e3o\n- **Jumper Aberto**: \n  - A central executa uma rampa de acelera\u00e7\u00e3o/desacelera\u00e7\u00e3o igual tanto na abertura quanto no fechamento. Esta configura\u00e7\u00e3o \u00e9 ideal para motores deslizantes (DZ).\n  \n- **Jumper Fechado**: \n  - A central executa uma rampa menor na abertura e uma rampa maior no fechamento. Esta configura\u00e7\u00e3o \u00e9 adequada para motores basculantes (BV).\n\n### Procedimento de Ajuste\n1. **Sele\u00e7\u00e3o do Tipo de Motor**: Determine o tipo de motor que ser\u00e1 utilizado (BV ou DZ) e configure o jumper de acordo.\n2. **Ajuste da Rampa**: Ajuste a rampa de acelera\u00e7\u00e3o/desacelera\u00e7\u00e3o para a melhor configura\u00e7\u00e3o poss\u00edvel, considerando o tipo de motor.\n3. **Programa\u00e7\u00e3o do Tempo de Abertura/Fechamento**: Realize o procedimento de programa\u00e7\u00e3o do tempo de curso para garantir que o motor opere dentro dos par\u00e2metros desejados.\n\n## Jumper FOR\u00c7A\n\n### Fun\u00e7\u00e3o\nO jumper FOR\u00c7A \u00e9 utilizado para ajustar a for\u00e7a do motor. Este ajuste \u00e9 importante para garantir que o motor opere com efici\u00eancia e seguran\u00e7a, evitando sobrecargas ou subutiliza\u00e7\u00e3o.\n\n### Configura\u00e7\u00e3o\n- **Ajuste da For\u00e7a**:\n  - **Fechar o Jumper**: Ative o modo de ajuste de for\u00e7a.\n  - **Bot\u00e3o CURSO (+)**: Aumenta a for\u00e7a do motor em incrementos de 5%.\n  - **Bot\u00e3o TX (-)**: Diminui a for\u00e7a do motor em decrementos de 5%.\n\n### Indicadores\n- **LED Aceso**: Indica que o ajuste atingiu o limite inferior ou superior de for\u00e7a.\n- **LED Piscando**: Indica que o ajuste est\u00e1 sendo realizado.\n\n### Procedimento de Ajuste\n1. **Ativar o Modo de Ajuste**: Feche o jumper FOR\u00c7A para iniciar o ajuste.\n2. **Ajustar a For\u00e7a**: Utilize os bot\u00f5es CURSO (+) e TX (-) para ajustar a for\u00e7a do motor conforme necess\u00e1rio.\n3. **Gravar o Ajuste**: Ap\u00f3s ajustar a for\u00e7a, remova o jumper para gravar o valor na mem\u00f3ria do microcontrolador e carreg\u00e1-lo.\n\n## Considera\u00e7\u00f5es Finais\n\n- **Seguran\u00e7a**: Sempre certifique-se de que a central est\u00e1 desconectada da alimenta\u00e7\u00e3o el\u00e9trica antes de realizar qualquer ajuste nos jumpers.\n- **Teste de Opera\u00e7\u00e3o**: Ap\u00f3s realizar os ajustes, teste o funcionamento do motor para garantir que ele opera conforme esperado.\n- **Manuten\u00e7\u00e3o Regular**: Realize verifica\u00e7\u00f5es regulares para assegurar que os ajustes permanecem adequados e que o sistema opera de forma segura e eficiente.\n\nEste manual deve ser utilizado como refer\u00eancia para a configura\u00e7\u00e3o e ajuste dos jumpers em centrais de controle de motores de port\u00f5es. Para informa\u00e7\u00f5es adicionais ou suporte t\u00e9cnico, consulte o fabricante ou um profissional qualificado.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 743,
+                    "prompt_tokens": 310,
+                    "total_tokens": 1053,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_4691090a87",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-be770637-66e7-4a20-84e3-f732246b95bc-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 310,
+                "output_tokens": 743,
+                "total_tokens": 1053,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Configuraci\u00f3n de Jumpers para Control de Motor\n\nEste manual proporciona instrucciones detalladas sobre c\u00f3mo configurar los jumpers para ajustar la fuerza del motor y el sistema de frenado en un dispositivo de control de motor. Siga las instrucciones cuidadosamente para asegurar un funcionamiento \u00f3ptimo.\n\n## Jumper FUERZA\n\nEl Jumper FUERZA se utiliza para seleccionar la potencia del motor. A continuaci\u00f3n se detallan los pasos para ajustar la fuerza del motor:\n\n1. **Cerrar el Jumper**: \n   - Para comenzar a ajustar la potencia del motor, cierre el jumper FUERZA.\n\n2. **Ajuste de Potencia**:\n   - **Aumentar Potencia**: Presione el bot\u00f3n **CURSO (+)** para incrementar la potencia del motor en un 5% por cada pulsaci\u00f3n.\n   - **Disminuir Potencia**: Presione el bot\u00f3n **TX (-)** para reducir la potencia del motor en un 5% por cada pulsaci\u00f3n.\n\n3. **Indicadores LED**:\n   - **L\u00edmite Alcanzado**: Si se alcanza el l\u00edmite inferior o superior de potencia, el LED permanecer\u00e1 encendido.\n   - **Ajuste en Proceso**: Durante el ajuste de potencia, el LED parpadear\u00e1 para indicar que se est\u00e1 realizando un cambio.\n\n4. **Guardar Configuraci\u00f3n**:\n   - Una vez que haya ajustado la potencia al nivel deseado, retire el jumper para registrar el valor de potencia del motor en la memoria del microcontrolador.\n\n## Jumper FREIO / FRENO\n\nEl Jumper FREIO (en portugu\u00e9s) o FRENO (en espa\u00f1ol) se utiliza para seleccionar el tipo de freno y ajustar la fuerza de frenado. Siga los pasos a continuaci\u00f3n para configurar el sistema de frenado:\n\n1. **Cerrar el Jumper**:\n   - Cierre el jumper FREIO/FRENO para comenzar a ajustar el sistema de frenado.\n\n2. **Ajuste del Freno**:\n   - **Cambiar Tipo de Freno**: Utilice los botones **TX (-)** y **CURSO (+)** para seleccionar el tipo de freno deseado.\n   - **Ajustar Fuerza de Frenado**: Contin\u00fae utilizando los mismos botones para ajustar la fuerza de frenado al nivel deseado.\n\n3. **Indicadores LED**:\n   - No se especifican indicadores LED para el ajuste del freno, pero aseg\u00farese de que los cambios se reflejen en el comportamiento del sistema de frenado.\n\n## Notas Adicionales\n\n- Aseg\u00farese de que el dispositivo est\u00e9 apagado antes de realizar cualquier cambio en los jumpers para evitar da\u00f1os o configuraciones incorrectas.\n- Consulte el manual del usuario del dispositivo para obtener informaci\u00f3n adicional sobre los tipos de freno disponibles y las especificaciones del motor.\n- Si experimenta problemas al ajustar la potencia o el sistema de frenado, verifique las conexiones del jumper y aseg\u00farese de que los botones funcionen correctamente.\n\nEste manual proporciona una gu\u00eda b\u00e1sica para la configuraci\u00f3n de los jumpers. Para obtener asistencia t\u00e9cnica adicional, p\u00f3ngase en contacto con el soporte del fabricante.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 648,
+                    "prompt_tokens": 293,
+                    "total_tokens": 941,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-8d76ded3-6740-48b4-b579-329bb2601df9-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 293,
+                "output_tokens": 648,
+                "total_tokens": 941,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Sele\u00e7\u00e3o do Tipo de Freio\n\nEste manual fornece instru\u00e7\u00f5es detalhadas sobre como selecionar e alterar o tipo de freio em um dispositivo espec\u00edfico. As instru\u00e7\u00f5es est\u00e3o dispon\u00edveis em portugu\u00eas e espanhol para facilitar a compreens\u00e3o.\n\n## Instru\u00e7\u00f5es em Portugu\u00eas\n\n### Sele\u00e7\u00e3o do Tipo de Freio\n\n1. **Pressionar os Bot\u00f5es:**\n   - Pressione os dois bot\u00f5es ao mesmo tempo por alguns segundos at\u00e9 que o LED pisque tr\u00eas vezes.\n\n2. **Identifica\u00e7\u00e3o do Tipo de Freio Ativo:**\n   - Se o LED permanecer aceso, o tipo de freio ativo \u00e9 o **freio por Revers\u00e3o**.\n   - Se o LED permanecer apagado, o freio ativo \u00e9 o **freio DC**.\n\n3. **Altera\u00e7\u00e3o do Tipo de Freio:**\n   - Para alterar o tipo de freio, pressione o bot\u00e3o **TX (-)**. O LED indicar\u00e1 o tipo de freio selecionado.\n\n4. **Sa\u00edda da Sele\u00e7\u00e3o do Tipo de Freio:**\n   - Para sair da sele\u00e7\u00e3o do tipo de freio, pressione o bot\u00e3o **CURSO (+)**.\n\n## Instrucciones en Espa\u00f1ol\n\n### Elecci\u00f3n del Tipo de Freno\n\n1. **Presionar los Botones:**\n   - Presione ambos botones al mismo tiempo durante unos segundos hasta que el LED parpadee tres veces.\n\n2. **Identificaci\u00f3n del Tipo de Freno Activo:**\n   - Si el LED permanece encendido, el tipo de freno activo es el **freno inversor**.\n   - Si el LED permanece apagado, el freno activo es el **freno de CC**.\n\n3. **Cambio del Tipo de Freno:**\n   - Para cambiar el tipo de freno, simplemente presione el bot\u00f3n **TX (-)**. El LED indicar\u00e1 el tipo de freno seleccionado.\n\n4. **Salida de la Selecci\u00f3n del Tipo de Freno:**\n   - Para salir de la selecci\u00f3n del tipo de freno, simplemente presione el bot\u00f3n **CURSO (+)**.\n\nEste manual deve ser seguido cuidadosamente para garantir a correta sele\u00e7\u00e3o e opera\u00e7\u00e3o do tipo de freio desejado.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 447,
+                    "prompt_tokens": 317,
+                    "total_tokens": 764,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-f9a02d59-059e-4b15-91ae-ae027fcdeb81-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 317,
+                "output_tokens": 447,
+                "total_tokens": 764,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Configura\u00e7\u00e3o do Tempo de Freio por Revers\u00e3o\n\nEste manual fornece instru\u00e7\u00f5es detalhadas sobre como configurar o tempo de freio por revers\u00e3o em um dispositivo espec\u00edfico. Siga as etapas abaixo para ajustar corretamente o tempo de freio.\n\n## Instru\u00e7\u00f5es de Configura\u00e7\u00e3o\n\n### Sele\u00e7\u00e3o do Tempo de Freio\n\n1. **Iniciar Configura\u00e7\u00e3o:**\n   - Pressione o bot\u00e3o **TX (-)** por alguns segundos at\u00e9 que o LED pisque duas vezes e permane\u00e7a apagado. Este \u00e9 o sinal de que o dispositivo est\u00e1 pronto para a configura\u00e7\u00e3o do tempo de freio.\n\n2. **Verifica\u00e7\u00e3o do LED:**\n   - Se o LED permanecer aceso ap\u00f3s piscar, isso indica que o tempo de freio est\u00e1 configurado em um dos extremos (m\u00e1ximo ou m\u00ednimo).\n   - Se o LED estiver apagado, o tempo de freio est\u00e1 em um valor intermedi\u00e1rio.\n\n3. **Ajuste do Tempo de Freio:**\n   - Utilize os bot\u00f5es para ajustar o tempo de freio:\n     - **CURSO (+):** Aumenta o tempo de freio em incrementos de 5%.\n     - **TX (-):** Diminui o tempo de freio em decrementos de 5%.\n\n### Grava\u00e7\u00e3o do Valor Escolhido\n\n- Ap\u00f3s selecionar o tempo de freio desejado, remova o jumper para gravar o valor escolhido e definir o tipo de freio.\n\n## Notas Adicionais\n\n- Certifique-se de que o dispositivo esteja devidamente alimentado e em condi\u00e7\u00f5es de opera\u00e7\u00e3o antes de iniciar o processo de configura\u00e7\u00e3o.\n- Caso encontre dificuldades durante o processo, verifique se os bot\u00f5es est\u00e3o funcionando corretamente e se o LED est\u00e1 respondendo conforme descrito.\n\nEste manual deve ser utilizado como refer\u00eancia para garantir que o tempo de freio por revers\u00e3o seja configurado de acordo com as necessidades espec\u00edficas de opera\u00e7\u00e3o.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 390,
+                    "prompt_tokens": 227,
+                    "total_tokens": 617,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_4691090a87",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-5fc72ec2-acfb-44fa-9451-ecdf2ab40c43-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 227,
+                "output_tokens": 390,
+                "total_tokens": 617,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Configuraci\u00f3n del Tiempo de Freno Inversor\n\nEste manual proporciona instrucciones detalladas sobre c\u00f3mo seleccionar y ajustar el tiempo de freno inversor utilizando los controles disponibles. Siga los pasos a continuaci\u00f3n para configurar correctamente el tiempo de freno inversor.\n\n## Instrucciones de Configuraci\u00f3n\n\n### Paso 1: Iniciar el Modo de Configuraci\u00f3n\n\n1. **Presionar el Bot\u00f3n TX (-):** \n   - Mantenga presionado el bot\u00f3n TX (-) durante unos segundos.\n   - Observe el LED: \n     - Si el LED parpadea dos veces y luego permanece apagado, ha ingresado al modo de configuraci\u00f3n.\n     - Si el LED permanece encendido, indica que el valor del tiempo est\u00e1 en uno de sus extremos (m\u00e1ximo o m\u00ednimo).\n\n### Paso 2: Ajustar el Tiempo de Freno Inversor\n\n1. **Comprender el Estado del LED:**\n   - **LED Apagado:** Indica que el tiempo de freno inversor est\u00e1 en un valor intermedio, no en los extremos.\n\n2. **Usar los Botones para Ajustar el Tiempo:**\n   - **Bot\u00f3n CURSO (+):** \n     - Presione para aumentar el tiempo de freno inversor en incrementos del 5%.\n   - **Bot\u00f3n TX (-):** \n     - Presione para disminuir el tiempo de freno inversor en decrementos del 5%.\n\n### Paso 3: Guardar la Configuraci\u00f3n\n\n1. **Retirar el Jumper:**\n   - Una vez que haya seleccionado el tiempo de freno inversor deseado, retire el jumper para guardar el valor elegido.\n   - Este paso tambi\u00e9n confirma el tipo de freno seleccionado.\n\n## Notas Adicionales\n\n- Aseg\u00farese de que el dispositivo est\u00e9 correctamente alimentado y en un entorno seguro antes de realizar cualquier ajuste.\n- Si el LED no responde como se describe, verifique las conexiones y aseg\u00farese de que el dispositivo est\u00e9 funcionando correctamente.\n- Consulte el manual del usuario del dispositivo para obtener informaci\u00f3n adicional sobre la funcionalidad del freno inversor y otros ajustes posibles.\n\nEste manual proporciona una gu\u00eda clara para ajustar el tiempo de freno inversor. Siga estos pasos cuidadosamente para asegurar una configuraci\u00f3n adecuada y segura.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 469,
+                    "prompt_tokens": 226,
+                    "total_tokens": 695,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-453882f0-fdda-421a-bd39-560310030a59-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 226,
+                "output_tokens": 469,
+                "total_tokens": 695,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Configura\u00e7\u00e3o da For\u00e7a do Freio DC\n\nEste manual fornece instru\u00e7\u00f5es detalhadas sobre como ajustar a for\u00e7a do freio DC utilizando os bot\u00f5es CURSO (+) e TX (-). Siga as etapas abaixo para configurar corretamente a for\u00e7a do freio.\n\n## Instru\u00e7\u00f5es de Configura\u00e7\u00e3o\n\n### Sele\u00e7\u00e3o da For\u00e7a do Freio DC\n\n1. **Iniciar a Sele\u00e7\u00e3o:**\n   - Pressione o bot\u00e3o **CURSO (+)** por alguns segundos at\u00e9 que o LED pisque tr\u00eas vezes. Este \u00e9 o sinal de que o modo de sele\u00e7\u00e3o de for\u00e7a do freio DC foi ativado.\n\n2. **Indica\u00e7\u00e3o do LED:**\n   - **LED Aceso:** Indica que o valor do tempo est\u00e1 em um dos extremos (m\u00e1ximo ou m\u00ednimo).\n   - **LED Apagado:** Indica que o valor do tempo est\u00e1 em um ponto intermedi\u00e1rio, n\u00e3o sendo nem o m\u00e1ximo nem o m\u00ednimo.\n\n3. **Ajuste da For\u00e7a do Freio:**\n   - Utilize os bot\u00f5es para ajustar a for\u00e7a do freio:\n     - **CURSO (+):** Aumenta a for\u00e7a do freio em incrementos de 5%.\n     - **TX (-):** Diminui a for\u00e7a do freio em decrementos de 5%.\n\n4. **Grava\u00e7\u00e3o do Valor Escolhido:**\n   - Ap\u00f3s selecionar a for\u00e7a desejada, remova o jumper para gravar o valor escolhido e definir o tipo de freio.\n\n## Considera\u00e7\u00f5es Finais\n\n- Certifique-se de que o LED pisque tr\u00eas vezes antes de iniciar a sele\u00e7\u00e3o para garantir que o modo de ajuste est\u00e1 ativo.\n- Verifique o estado do LED (aceso ou apagado) para entender se o valor est\u00e1 em um extremo ou em um ponto intermedi\u00e1rio.\n- Ajuste a for\u00e7a do freio em incrementos ou decrementos de 5% conforme necess\u00e1rio para atender \u00e0s suas necessidades espec\u00edficas.\n- A remo\u00e7\u00e3o do jumper \u00e9 essencial para salvar as configura\u00e7\u00f5es feitas.\n\nEste manual deve ser seguido cuidadosamente para garantir que a for\u00e7a do freio DC seja configurada corretamente e de acordo com as especifica\u00e7\u00f5es desejadas.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 440,
+                    "prompt_tokens": 218,
+                    "total_tokens": 658,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-2c9b0054-b394-441a-a6db-33ceeb26fbc1-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 218,
+                "output_tokens": 440,
+                "total_tokens": 658,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Configura\u00e7\u00e3o do Sistema de Freio DC\n\n## Introdu\u00e7\u00e3o\n\nEste manual fornece instru\u00e7\u00f5es detalhadas sobre como configurar a for\u00e7a do freio de corrente cont\u00ednua (DC) em um sistema espec\u00edfico. Siga as etapas cuidadosamente para garantir que o freio seja ajustado corretamente.\n\n## Sele\u00e7\u00e3o da For\u00e7a do Freio DC\n\n### Passo a Passo\n\n1. **Acesso ao Modo de Configura\u00e7\u00e3o:**\n   - Pressione o bot\u00e3o **CURSO (+)** por alguns segundos at\u00e9 que o LED associado pisque tr\u00eas vezes. Isso indica que voc\u00ea entrou no modo de configura\u00e7\u00e3o da for\u00e7a do freio DC.\n\n2. **Indica\u00e7\u00e3o do LED:**\n   - Se o LED permanecer aceso ap\u00f3s o piscar inicial, isso significa que o valor do tempo est\u00e1 ajustado em um dos extremos (m\u00e1ximo ou m\u00ednimo).\n   - Se o LED estiver apagado, o valor est\u00e1 em algum ponto intermedi\u00e1rio.\n\n3. **Ajuste da For\u00e7a do Freio:**\n   - Utilize os bot\u00f5es para ajustar a for\u00e7a do freio:\n     - **CURSO (+):** Aumenta a for\u00e7a do freio em incrementos de 5%.\n     - **TX (-):** Diminui a for\u00e7a do freio em decrementos de 5%.\n\n4. **Salvar Configura\u00e7\u00e3o:**\n   - Para salvar o valor escolhido e o tipo de freio configurado, remova o jumper. Isso grava o valor na mem\u00f3ria do sistema.\n\n## Observa\u00e7\u00f5es Importantes\n\n- **Grava\u00e7\u00e3o Autom\u00e1tica:** Sempre que o jumper for removido, o valor configurado at\u00e9 aquele momento ser\u00e1 gravado na mem\u00f3ria e carregado automaticamente na pr\u00f3xima inicializa\u00e7\u00e3o.\n  \n- **Compatibilidade do Tipo de Freio:**\n  - Ao definir o tempo do freio por revers\u00e3o ou ajustar a for\u00e7a do freio DC, certifique-se de que o tipo de freio selecionado seja compat\u00edvel com o ajuste que est\u00e1 sendo realizado. Caso contr\u00e1rio, n\u00e3o ser\u00e1 poss\u00edvel acessar a rotina de sele\u00e7\u00e3o.\n\n## Conclus\u00e3o\n\nEste manual fornece as etapas necess\u00e1rias para ajustar a for\u00e7a do freio DC de forma eficaz. Certifique-se de seguir cada passo cuidadosamente e verificar a compatibilidade do tipo de freio antes de realizar ajustes. Para qualquer d\u00favida adicional, consulte o suporte t\u00e9cnico ou a documenta\u00e7\u00e3o completa do sistema.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 476,
+                    "prompt_tokens": 298,
+                    "total_tokens": 774,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-f48fafa5-f1e6-4dc1-a8dd-b6bd0c8682e9-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 298,
+                "output_tokens": 476,
+                "total_tokens": 774,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Configuraci\u00f3n de Jumpers y Fotoc\u00e9lulas\n\nEste manual proporciona instrucciones detalladas sobre la configuraci\u00f3n de jumpers y la selecci\u00f3n de fotoc\u00e9lulas en un sistema espec\u00edfico. Aseg\u00farese de seguir cuidadosamente las instrucciones para garantizar un funcionamiento correcto.\n\n## Consideraciones Generales\n\n- **Memoria de Configuraci\u00f3n**: Cada vez que se abre un jumper, el valor seleccionado hasta ese momento se guarda autom\u00e1ticamente en la memoria del sistema y se carga al reiniciar.\n- **Compatibilidad de Configuraci\u00f3n**: Al definir el tiempo de freno inversor o la fuerza del freno DC, es crucial que el tipo de freno coincida con el que se desea ajustar. De lo contrario, no ser\u00e1 posible acceder a la rutina de selecci\u00f3n.\n\n## Configuraci\u00f3n del Jumper JP1\n\nEl Jumper JP1 es utilizado para seleccionar el tipo de fotoc\u00e9lula que se emplear\u00e1 en el sistema. La configuraci\u00f3n de este jumper determina c\u00f3mo se interpretar\u00e1 la se\u00f1al de la fotoc\u00e9lula.\n\n### Opciones de Configuraci\u00f3n\n\n1. **Jumper Abierto**:\n   - **Fotoc\u00e9lula Normal**: En esta configuraci\u00f3n, se utiliza una fotoc\u00e9lula est\u00e1ndar que opera con una se\u00f1al en baja.\n   - **Uso**: Esta opci\u00f3n es adecuada para aplicaciones donde se requiere una se\u00f1al simple y directa de la fotoc\u00e9lula.\n\n2. **Jumper Cerrado**:\n   - **Fotoc\u00e9lula con PWM**: En esta configuraci\u00f3n, se emplea una fotoc\u00e9lula que utiliza modulaci\u00f3n por ancho de pulso (PWM) para transmitir la se\u00f1al.\n   - **Uso**: Esta opci\u00f3n es ideal para aplicaciones que requieren un control m\u00e1s preciso y detallado de la se\u00f1al de la fotoc\u00e9lula.\n\n## Procedimiento de Configuraci\u00f3n\n\n1. **Identificaci\u00f3n del Jumper**: Localice el Jumper JP1 en el sistema. Aseg\u00farese de que el sistema est\u00e9 apagado antes de realizar cualquier cambio en la configuraci\u00f3n del jumper.\n\n2. **Selecci\u00f3n de la Fotoc\u00e9lula**:\n   - Determine el tipo de fotoc\u00e9lula que se necesita para su aplicaci\u00f3n espec\u00edfica.\n   - Configure el Jumper JP1 seg\u00fan las opciones descritas anteriormente (abierto para fotoc\u00e9lula normal, cerrado para fotoc\u00e9lula con PWM).\n\n3. **Verificaci\u00f3n de Configuraci\u00f3n**:\n   - Una vez configurado el jumper, encienda el sistema y verifique que la fotoc\u00e9lula seleccionada funcione correctamente.\n   - Aseg\u00farese de que la se\u00f1al de la fotoc\u00e9lula sea interpretada adecuadamente por el sistema.\n\n4. **Ajustes Adicionales**:\n   - Si es necesario, ajuste el tiempo de freno inversor o la fuerza del freno DC, asegur\u00e1ndose de que el tipo de freno coincida con la configuraci\u00f3n deseada.\n\n## Notas Adicionales\n\n- **Mantenimiento**: Revise peri\u00f3dicamente la configuraci\u00f3n de los jumpers para asegurarse de que no se hayan alterado accidentalmente.\n- **Documentaci\u00f3n**: Mantenga un registro de las configuraciones utilizadas para facilitar futuras referencias y ajustes.\n\nEste manual debe ser utilizado como gu\u00eda para la correcta configuraci\u00f3n de los jumpers y la selecci\u00f3n de fotoc\u00e9lulas en su sistema. Aseg\u00farese de seguir todas las instrucciones de seguridad y procedimientos recomendados para evitar da\u00f1os al equipo o mal funcionamiento.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 698,
+                    "prompt_tokens": 256,
+                    "total_tokens": 954,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-833bb09a-3c31-4302-8376-710126435021-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 256,
+                "output_tokens": 698,
+                "total_tokens": 954,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Configura\u00e7\u00e3o de Jumpers para Controle de Port\u00e3o Autom\u00e1tico\n\nEste manual fornece instru\u00e7\u00f5es detalhadas sobre a configura\u00e7\u00e3o dos jumpers JP1 e PAUSA em um sistema de controle de port\u00e3o autom\u00e1tico. Siga as instru\u00e7\u00f5es cuidadosamente para garantir o funcionamento correto do sistema.\n\n## Jumper JP1: Sele\u00e7\u00e3o do Tipo de Fotoc\u00e9lula\n\nO jumper JP1 \u00e9 utilizado para selecionar o tipo de fotoc\u00e9lula que ser\u00e1 utilizado no sistema. A configura\u00e7\u00e3o correta deste jumper \u00e9 crucial para o funcionamento adequado do sensor de seguran\u00e7a.\n\n- **Jumper Aberto**: \n  - Utiliza a fotoc\u00e9lula normal.\n  - A fotoc\u00e9lula opera com sinal em baixa.\n\n- **Jumper Fechado**: \n  - Utiliza a fotoc\u00e9lula com modula\u00e7\u00e3o por largura de pulso (PWM).\n  - Esta configura\u00e7\u00e3o \u00e9 necess\u00e1ria para fotoc\u00e9lulas que requerem sinal PWM.\n\n## Jumper PAUSA: Configura\u00e7\u00e3o do Tempo de Pausa\n\nO jumper PAUSA permite configurar o tempo de pausa do port\u00e3o quando ele atinge o fim de curso aberto, antes de iniciar o fechamento autom\u00e1tico. Esta configura\u00e7\u00e3o \u00e9 importante para ajustar o tempo que o port\u00e3o permanecer\u00e1 aberto.\n\n### Procedimento de Configura\u00e7\u00e3o:\n\n1. **Fechar o Jumper PAUSA**:\n   - Ativa o modo de configura\u00e7\u00e3o do tempo de pausa.\n\n2. **Ajustar o Tempo de Pausa**:\n   - Utilize os bot\u00f5es CURSO (+) e TX (-) para ajustar o tempo de pausa desejado.\n   - O tempo m\u00ednimo configur\u00e1vel \u00e9 de 0 segundos (sem pausa).\n   - O tempo m\u00e1ximo configur\u00e1vel \u00e9 de 120 segundos (2 minutos).\n   - O ajuste \u00e9 feito em incrementos de 5 segundos.\n   - Quando o tempo atinge os limites inferior ou superior, o LED indicador acender\u00e1.\n\n3. **Gravar o Tempo de Pausa**:\n   - Ap\u00f3s selecionar o tempo desejado, abra o jumper PAUSA para gravar o valor na mem\u00f3ria do microcontrolador.\n   - O valor ser\u00e1 carregado automaticamente para uso no sistema.\n\n## Notas Importantes\n\n- Certifique-se de que o sistema est\u00e1 desligado antes de realizar qualquer altera\u00e7\u00e3o nos jumpers para evitar danos ao equipamento ou risco de choque el\u00e9trico.\n- Verifique as especifica\u00e7\u00f5es da fotoc\u00e9lula utilizada para garantir a configura\u00e7\u00e3o correta do jumper JP1.\n- Ap\u00f3s configurar o tempo de pausa, teste o funcionamento do port\u00e3o para assegurar que o tempo programado atende \u00e0s suas necessidades.\n\nEste manual deve ser utilizado como refer\u00eancia para a configura\u00e7\u00e3o dos jumpers no sistema de controle de port\u00e3o autom\u00e1tico. Para informa\u00e7\u00f5es adicionais ou suporte t\u00e9cnico, consulte o fabricante ou um profissional qualificado.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 559,
+                    "prompt_tokens": 280,
+                    "total_tokens": 839,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-268ecaa5-4861-401d-8b04-ad3c1aa9de82-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 280,
+                "output_tokens": 559,
+                "total_tokens": 839,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Configura\u00e7\u00e3o de Jumpers\n\nEste manual fornece instru\u00e7\u00f5es detalhadas sobre como configurar os jumpers PAUSA e RAMPA para controlar o tempo de pausa e a for\u00e7a da rampa em um sistema de port\u00e3o autom\u00e1tico.\n\n## Jumper PAUSA\n\nO jumper PAUSA \u00e9 utilizado para selecionar o tempo de pausa quando o port\u00e3o atinge o final de curso de abertura, ativando o fechamento autom\u00e1tico. Este tempo determina quanto tempo o port\u00e3o permanecer\u00e1 aberto antes de iniciar o fechamento.\n\n### Configura\u00e7\u00e3o do Jumper PAUSA\n\n1. **Fechar o Jumper PAUSA**: \n   - Ao fechar o jumper, voc\u00ea pode ajustar o tempo de pausa usando os bot\u00f5es CURSO (+) e TX (-).\n   - O tempo de pausa pode ser ajustado entre 0 segundos (sem pausa) e 120 segundos (2 minutos).\n   - Quando o tempo m\u00ednimo ou m\u00e1ximo \u00e9 atingido, um LED indicador acender\u00e1.\n\n2. **Gravar o Tempo de Pausa**:\n   - Para registrar o valor selecionado na mem\u00f3ria do microcontrolador, abra o jumper PAUSA.\n\n## Jumper RAMPA\n\nO jumper RAMPA \u00e9 utilizado para selecionar a porcentagem de for\u00e7a que ser\u00e1 entregue ao motor durante a execu\u00e7\u00e3o da rampa. Isso permite ajustar a acelera\u00e7\u00e3o do motor ao iniciar o movimento do port\u00e3o.\n\n### Configura\u00e7\u00e3o do Jumper RAMPA\n\n1. **Fechar o Jumper RAMPA**:\n   - Ao fechar o jumper, ajuste a for\u00e7a da rampa usando os bot\u00f5es CURSO (+) e TX (-).\n   - O LED indicador acender\u00e1 ao atingir os limites inferior ou superior da for\u00e7a configur\u00e1vel.\n\n2. **Gravar a For\u00e7a da Rampa**:\n   - Para salvar o valor da for\u00e7a da rampa na mem\u00f3ria do microcontrolador, abra o jumper RAMPA.\n\n## Notas Adicionais\n\n- **LED Indicador**: O LED serve como um indicador visual para confirmar quando os limites de configura\u00e7\u00e3o s\u00e3o atingidos, tanto para o tempo de pausa quanto para a for\u00e7a da rampa.\n- **Mem\u00f3ria do Microcontrolador**: As configura\u00e7\u00f5es ajustadas s\u00e3o salvas na mem\u00f3ria do microcontrolador ao abrir os jumpers, garantindo que as prefer\u00eancias sejam mantidas mesmo ap\u00f3s desligar o sistema.\n\nEste manual deve ser utilizado para garantir que as configura\u00e7\u00f5es do sistema de port\u00e3o autom\u00e1tico sejam ajustadas de acordo com as necessidades espec\u00edficas de opera\u00e7\u00e3o, proporcionando seguran\u00e7a e efici\u00eancia no uso di\u00e1rio.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 506,
+                    "prompt_tokens": 304,
+                    "total_tokens": 810,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-2f7d019e-306a-4e76-9d97-42be930303f3-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 304,
+                "output_tokens": 506,
+                "total_tokens": 810,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Configura\u00e7\u00e3o e Opera\u00e7\u00e3o dos Jumpers RAMPA e REV\n\n## Introdu\u00e7\u00e3o\n\nEste manual fornece instru\u00e7\u00f5es detalhadas sobre a configura\u00e7\u00e3o e opera\u00e7\u00e3o dos jumpers RAMPA e REV em um sistema de controle de motor. Esses jumpers s\u00e3o utilizados para ajustar a pot\u00eancia entregue ao motor e para definir o comportamento do sistema durante a abertura e fechamento de um port\u00e3o.\n\n## Jumper RAMPA\n\n### Fun\u00e7\u00e3o\n\nO jumper RAMPA \u00e9 utilizado para selecionar o percentual de pot\u00eancia que ser\u00e1 entregue ao motor durante a execu\u00e7\u00e3o da rampa. A rampa refere-se ao aumento gradual da pot\u00eancia para evitar movimentos bruscos do motor.\n\n### Configura\u00e7\u00e3o\n\n1. **Fechar o Jumper**: \n   - Ao fechar o jumper, voc\u00ea pode ajustar o valor da for\u00e7a da rampa.\n   - Utilize os bot\u00f5es CURSO (+) e TX (-) para selecionar o valor desejado.\n   - O LED acender\u00e1 ao atingir os limites inferior ou superior de ajuste.\n\n2. **Registrar o Valor**:\n   - Para registrar o valor selecionado na mem\u00f3ria do microcontrolador, abra o jumper.\n   - O valor ser\u00e1 carregado e utilizado nas opera\u00e7\u00f5es subsequentes.\n\n## Jumper REV\n\n### Fun\u00e7\u00e3o\n\nO jumper REV controla como o sistema responde aos comandos durante a abertura e fechamento do port\u00e3o. Ele define se o sistema deve ignorar comandos ou permitir a revers\u00e3o do motor.\n\n### Configura\u00e7\u00e3o\n\n1. **Jumper Fechado**:\n   - Durante a abertura, a central ignora comandos.\n   - Durante o fechamento, um comando pode parar e reverter o motor para o sentido de abertura.\n\n2. **Jumper Aberto**:\n   - A central aceita comandos durante a abertura, permitindo parar o motor.\n   - Um novo comando durante a abertura executar\u00e1 o fechamento.\n   - Durante o fechamento, um comando ir\u00e1 parar o motor, e ser\u00e1 necess\u00e1rio um novo comando para iniciar a abertura novamente.\n\n## Considera\u00e7\u00f5es Finais\n\n- **Seguran\u00e7a**: Certifique-se de que todas as configura\u00e7\u00f5es sejam realizadas com o sistema desligado para evitar acidentes.\n- **Manuten\u00e7\u00e3o**: Verifique regularmente o estado dos jumpers e dos bot\u00f5es de controle para garantir o funcionamento adequado do sistema.\n- **Documenta\u00e7\u00e3o**: Mantenha este manual acess\u00edvel para refer\u00eancia futura e para instruir novos operadores do sistema.\n\nEste manual deve ser seguido cuidadosamente para garantir a opera\u00e7\u00e3o segura e eficiente do sistema de controle de motor.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 500,
+                    "prompt_tokens": 263,
+                    "total_tokens": 763,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-333803dd-8145-4614-81c7-200ee2511b93-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 263,
+                "output_tokens": 500,
+                "total_tokens": 763,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Opera\u00e7\u00e3o e Configura\u00e7\u00e3o do Sistema de Controle de Port\u00e3o\n\n## Introdu\u00e7\u00e3o\n\nEste manual fornece instru\u00e7\u00f5es detalhadas sobre a configura\u00e7\u00e3o e opera\u00e7\u00e3o do sistema de controle de port\u00e3o, incluindo o uso do jumper REV e a integra\u00e7\u00e3o com fotoc\u00e9lulas para seguran\u00e7a adicional.\n\n## Configura\u00e7\u00e3o do Jumper REV\n\nO jumper REV \u00e9 um componente crucial que determina como o sistema de controle de port\u00e3o responde aos comandos durante os ciclos de abertura e fechamento. A configura\u00e7\u00e3o do jumper pode ser ajustada para alterar o comportamento do sistema conforme necess\u00e1rio.\n\n### Comportamento com Jumper Fechado\n\n- **Durante a Abertura:**\n  - A central ignora todos os comandos de controle remoto. Isso significa que, uma vez iniciado, o ciclo de abertura n\u00e3o pode ser interrompido por comandos adicionais.\n\n- **Durante o Fechamento:**\n  - Um \u00fanico comando de controle remoto \u00e9 suficiente para parar o motor e reverter o sentido para a abertura. Isso permite uma resposta r\u00e1pida em caso de necessidade de reabertura imediata.\n\n### Comportamento com Jumper Aberto\n\n- **Durante a Abertura:**\n  - A central aceita comandos de controle remoto. Um comando durante a abertura ir\u00e1 parar o motor. Um novo comando ser\u00e1 necess\u00e1rio para iniciar o fechamento.\n\n- **Durante o Fechamento:**\n  - Um comando de controle remoto ir\u00e1 parar o motor. Para reabrir o port\u00e3o, ser\u00e1 necess\u00e1rio emitir um novo comando.\n\n## Integra\u00e7\u00e3o com Fotoc\u00e9lulas\n\nAs fotoc\u00e9lulas s\u00e3o dispositivos de seguran\u00e7a que detectam obst\u00e1culos no caminho do port\u00e3o. Elas s\u00e3o essenciais para prevenir acidentes e danos ao port\u00e3o ou a objetos e pessoas pr\u00f3ximas.\n\n### Comportamento das Fotoc\u00e9lulas\n\n- **Port\u00e3o Aberto:**\n  - Se a fotoc\u00e9lula detectar um obst\u00e1culo enquanto o port\u00e3o est\u00e1 aberto, qualquer comando de fechamento ser\u00e1 ignorado. O port\u00e3o permanecer\u00e1 aberto at\u00e9 que a fotoc\u00e9lula n\u00e3o detecte mais nenhum obst\u00e1culo.\n\n- **Durante o Fechamento:**\n  - A detec\u00e7\u00e3o de um obst\u00e1culo pela fotoc\u00e9lula far\u00e1 com que o motor pare imediatamente e reverta o sentido para a abertura. Este comportamento \u00e9 autom\u00e1tico e independe do estado da fun\u00e7\u00e3o de revers\u00e3o configurada pelo jumper REV.\n\n## Considera\u00e7\u00f5es Finais\n\nA configura\u00e7\u00e3o correta do jumper REV e a instala\u00e7\u00e3o adequada das fotoc\u00e9lulas s\u00e3o essenciais para garantir a opera\u00e7\u00e3o segura e eficiente do sistema de controle de port\u00e3o. Recomenda-se testar regularmente o sistema para garantir que todos os componentes estejam funcionando conforme esperado e que as fotoc\u00e9lulas estejam livres de obstru\u00e7\u00f5es que possam afetar sua opera\u00e7\u00e3o.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 547,
+                    "prompt_tokens": 258,
+                    "total_tokens": 805,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-c7d2d226-0295-4f5a-b3fe-763201da8bbb-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 258,
+                "output_tokens": 547,
+                "total_tokens": 805,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Opera\u00e7\u00e3o e Configura\u00e7\u00e3o de Fotoc\u00e9lula para Port\u00f5es Autom\u00e1ticos\n\n## Introdu\u00e7\u00e3o\n\nEste manual fornece instru\u00e7\u00f5es detalhadas sobre o funcionamento e configura\u00e7\u00e3o de fotoc\u00e9lulas em sistemas de port\u00f5es autom\u00e1ticos. As fotoc\u00e9lulas s\u00e3o dispositivos de seguran\u00e7a que detectam obst\u00e1culos no caminho do port\u00e3o, garantindo que ele n\u00e3o feche sobre objetos ou pessoas.\n\n## Funcionamento da Fotoc\u00e9lula\n\n### Modo de Opera\u00e7\u00e3o\n\n1. **Port\u00e3o Aberto:**\n   - Se a fotoc\u00e9lula detectar um obst\u00e1culo enquanto o port\u00e3o est\u00e1 aberto, ela impedir\u00e1 qualquer comando de fechamento. O port\u00e3o permanecer\u00e1 aberto at\u00e9 que a fotoc\u00e9lula n\u00e3o detecte mais nenhum obst\u00e1culo.\n\n2. **Durante o Fechamento:**\n   - Se um obst\u00e1culo for detectado durante o fechamento, a fotoc\u00e9lula interromper\u00e1 o movimento do motor e reverter\u00e1 automaticamente o sentido de abertura do port\u00e3o. Esta a\u00e7\u00e3o ocorre independentemente do estado da fun\u00e7\u00e3o inversa configurada no sistema.\n\n## Verifica\u00e7\u00e3o e Invers\u00e3o do Sentido de Fechamento\n\n### Verifica\u00e7\u00e3o do Sentido de Fechamento\n\n- Para verificar se o port\u00e3o est\u00e1 fechando corretamente, acione a fotoc\u00e9lula. O port\u00e3o deve reverter o sentido apenas durante o fechamento.\n\n### Invers\u00e3o do Sentido de Fechamento\n\nExistem duas maneiras principais de inverter o sentido de fechamento do port\u00e3o:\n\n1. **Invers\u00e3o Manual dos Fios:**\n   - Inverter o conector do fim de curso.\n   - Alterar as posi\u00e7\u00f5es entre os fios preto e branco do motor.\n\n2. **Utiliza\u00e7\u00e3o do Garen Setup:**\n   - O Garen Setup permite selecionar o sentido desejado sem a necessidade de alterar fisicamente os fios na central. Este m\u00e9todo \u00e9 mais conveniente e evita manipula\u00e7\u00f5es f\u00edsicas no sistema.\n\n## Considera\u00e7\u00f5es Finais\n\n- As fotoc\u00e9lulas s\u00e3o componentes cr\u00edticos para a seguran\u00e7a dos sistemas de port\u00f5es autom\u00e1ticos. \u00c9 essencial garantir que estejam corretamente instaladas e configuradas.\n- Sempre teste o funcionamento das fotoc\u00e9lulas ap\u00f3s qualquer ajuste ou manuten\u00e7\u00e3o para assegurar que o sistema opere de forma segura e eficaz.\n- Consulte o manual do fabricante do port\u00e3o ou do sistema de automa\u00e7\u00e3o para instru\u00e7\u00f5es espec\u00edficas sobre instala\u00e7\u00e3o e configura\u00e7\u00e3o de fotoc\u00e9lulas.\n\nEste manual visa garantir que os usu\u00e1rios possam operar e configurar suas fotoc\u00e9lulas de maneira segura e eficiente, proporcionando seguran\u00e7a e confiabilidade no uso di\u00e1rio de port\u00f5es autom\u00e1ticos.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 519,
+                    "prompt_tokens": 257,
+                    "total_tokens": 776,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_4691090a87",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-54b63215-e16f-4fdf-b153-53ada23cb8cb-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 257,
+                "output_tokens": 519,
+                "total_tokens": 776,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Configuraci\u00f3n y Operaci\u00f3n del Sistema de Port\u00f3n Autom\u00e1tico\n\n## Introducci\u00f3n\n\nEste manual proporciona instrucciones detalladas sobre c\u00f3mo configurar y operar un sistema de port\u00f3n autom\u00e1tico, incluyendo la verificaci\u00f3n de la direcci\u00f3n de cierre, el uso de fotoc\u00e9lulas, y la interpretaci\u00f3n de los indicadores LED de fin de curso.\n\n## Verificaci\u00f3n de la Direcci\u00f3n de Cierre\n\nPara garantizar que el port\u00f3n se cierre correctamente, es importante verificar la direcci\u00f3n de cierre. Esto se puede hacer activando la fotoc\u00e9lula. Durante el proceso de cierre, si el port\u00f3n encuentra un obst\u00e1culo, la fotoc\u00e9lula har\u00e1 que el port\u00f3n invierta su direcci\u00f3n.\n\n### Inversi\u00f3n de Direcci\u00f3n\n\nExisten dos m\u00e9todos para invertir la direcci\u00f3n del port\u00f3n:\n\n1. **Inversi\u00f3n Manual de Conexiones:**\n   - Invierta el conector del interruptor de l\u00edmite.\n   - Cambie las posiciones entre los cables del motor blanco y negro.\n\n2. **Uso del Garen Setup:**\n   - Utilice el Garen Setup para seleccionar la direcci\u00f3n deseada sin necesidad de invertir f\u00edsicamente los cables en la central.\n\n## Indicadores LED de Fin de Curso\n\nLa central del sistema de port\u00f3n autom\u00e1tico est\u00e1 equipada con dos LEDs que indican el estado de fin de curso del port\u00f3n:\n\n- **LED FCF (Fin de Curso Cerrado):** \n  - Este LED se ilumina cuando el port\u00f3n est\u00e1 completamente cerrado.\n  \n- **LED FCA (Fin de Curso Abierto):**\n  - Este LED se ilumina cuando el port\u00f3n est\u00e1 completamente abierto.\n\n## Consideraciones Adicionales\n\n- Aseg\u00farese de que todos los componentes del sistema est\u00e9n correctamente instalados y configurados antes de operar el port\u00f3n.\n- Realice pruebas peri\u00f3dicas para verificar el correcto funcionamiento de la fotoc\u00e9lula y los indicadores LED.\n- Consulte el manual del fabricante para obtener informaci\u00f3n espec\u00edfica sobre el modelo de su sistema de port\u00f3n autom\u00e1tico.\n\nEste manual proporciona una gu\u00eda b\u00e1sica para la configuraci\u00f3n y operaci\u00f3n del sistema de port\u00f3n autom\u00e1tico. Para obtener asistencia t\u00e9cnica adicional, comun\u00edquese con el servicio de atenci\u00f3n al cliente del fabricante.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 440,
+                    "prompt_tokens": 243,
+                    "total_tokens": 683,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-f9110f36-e24e-4360-9de4-c7c196ac153a-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 243,
+                "output_tokens": 440,
+                "total_tokens": 683,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Opera\u00e7\u00e3o e Configura\u00e7\u00e3o\n\n## Introdu\u00e7\u00e3o\n\nEste manual fornece informa\u00e7\u00f5es detalhadas sobre a opera\u00e7\u00e3o e configura\u00e7\u00e3o de um sistema de controle de port\u00f5es automatizados, incluindo a utiliza\u00e7\u00e3o de LEDs indicadores de posi\u00e7\u00e3o, m\u00f3dulos opcionais de fun\u00e7\u00f5es adicionais e a integra\u00e7\u00e3o com o aplicativo G.smart 4.0 via Wi-Fi.\n\n## LEDs de Final de Carrera\n\nO sistema possui dois LEDs indicadores para mostrar o estado do port\u00e3o:\n\n- **LED FCF (Final de Carrera Fechado):** Este LED acende quando o port\u00e3o est\u00e1 completamente fechado. Isso indica que o interruptor de limite fechado foi ativado.\n- **LED FCA (Final de Carrera Aberto):** Este LED acende quando o port\u00e3o est\u00e1 completamente aberto, indicando que o interruptor de limite aberto foi ativado.\n\n## M\u00f3dulo Opcional 8F\n\nO m\u00f3dulo opcional 8F oferece funcionalidades adicionais para o sistema de controle de port\u00f5es. As fun\u00e7\u00f5es dispon\u00edveis incluem:\n\n- **Ventilador:** Controle de ventila\u00e7\u00e3o para o sistema.\n- **Alarme:** Ativa\u00e7\u00e3o de alarme para seguran\u00e7a adicional.\n- **Abertura e Bloqueio:** Controle de abertura e bloqueio do port\u00e3o.\n- **Temporiza\u00e7\u00e3o:** Configura\u00e7\u00e3o de temporizadores para diferentes intervalos de tempo: 3 segundos, 15 segundos, 30 segundos e 60 segundos.\n\n## M\u00f3dulo Garen Setup\n\n### M\u00f3dulo de Configura\u00e7\u00e3o Wi-Fi\n\nO m\u00f3dulo Garen Setup permite a conex\u00e3o da central de controle ao aplicativo G.smart 4.0, proporcionando controle remoto e monitoramento do sistema atrav\u00e9s de dispositivos m\u00f3veis.\n\n### Conex\u00e3o com o App G.smart 4.0\n\n- **Instala\u00e7\u00e3o do App:** Baixe e instale o aplicativo G.smart 4.0 em seu dispositivo m\u00f3vel.\n- **Conex\u00e3o Wi-Fi:** Utilize o m\u00f3dulo Wi-Fi para conectar a central ao aplicativo, permitindo o controle e monitoramento do port\u00e3o remotamente.\n\n## Observa\u00e7\u00f5es\n\n- Certifique-se de que todos os componentes estejam corretamente instalados e configurados de acordo com as instru\u00e7\u00f5es do fabricante.\n- Verifique regularmente o funcionamento dos LEDs indicadores para garantir que o sistema est\u00e1 operando corretamente.\n- Utilize o m\u00f3dulo opcional 8F para personalizar as funcionalidades do sistema de acordo com suas necessidades espec\u00edficas.\n\n## Coment\u00e1rios\n\nEste manual foi elaborado para fornecer uma vis\u00e3o clara e concisa das funcionalidades e op\u00e7\u00f5es de configura\u00e7\u00e3o dispon\u00edveis no sistema de controle de port\u00f5es automatizados. Para informa\u00e7\u00f5es adicionais ou suporte t\u00e9cnico, consulte o fabricante ou o fornecedor autorizado.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 522,
+                    "prompt_tokens": 308,
+                    "total_tokens": 830,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-6c8ca031-9984-4530-b8b1-700cb03d33a1-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 308,
+                "output_tokens": 522,
+                "total_tokens": 830,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual do M\u00f3dulo Garen Setup\n\n## Introdu\u00e7\u00e3o\n\nO M\u00f3dulo Garen Setup \u00e9 um dispositivo de configura\u00e7\u00e3o Wi-Fi projetado para conectar centrais ao aplicativo G.smart 4.0. Este manual fornece instru\u00e7\u00f5es detalhadas sobre como configurar e operar o m\u00f3dulo, al\u00e9m de informa\u00e7\u00f5es sobre como realizar um reset em caso de perda do smartphone.\n\n## Funcionalidades\n\n- **Conex\u00e3o Wi-Fi**: O m\u00f3dulo permite a conex\u00e3o da central ao aplicativo G.smart 4.0 via Wi-Fi.\n- **Reset de Configura\u00e7\u00e3o**: Possibilidade de resetar o m\u00f3dulo em caso de perda do smartphone.\n\n## Instru\u00e7\u00f5es de Reset\n\nCaso o usu\u00e1rio perca o smartphone, \u00e9 poss\u00edvel realizar um reset do m\u00f3dulo para excluir o dispositivo perdido. Siga os passos abaixo:\n\n1. **Fechar Jumpers**: Localize e feche os jumpers identificados como FOR\u00c7A, FREIO, PAUSA e RAMPA.\n2. **Pressionar Bot\u00f5es**: Com os jumpers fechados, pressione os dois bot\u00f5es do m\u00f3dulo simultaneamente por alguns segundos.\n3. **Aguardar Sinaliza\u00e7\u00e3o**: Mantenha os bot\u00f5es pressionados at\u00e9 que o LED do m\u00f3dulo comece a piscar, indicando que o reset foi realizado com sucesso.\n\n## Requisitos de Rede Wi-Fi\n\nPara que o m\u00f3dulo funcione corretamente, \u00e9 necess\u00e1rio atender aos seguintes requisitos de rede:\n\n- **Frequ\u00eancia**: Rede Wi-Fi de 2,4 GHz.\n- **Conex\u00e3o \u00e0 Internet**: A rede deve ter acesso \u00e0 Internet.\n- **Modos de Seguran\u00e7a Suportados**: O m\u00f3dulo \u00e9 compat\u00edvel com os seguintes modos de seguran\u00e7a:\n  - WEP\n  - WPA\n  - WPA2\n  - WPA2 PSK\n  - AES\n\n## Considera\u00e7\u00f5es Finais\n\nCertifique-se de que todos os requisitos de rede est\u00e3o atendidos antes de tentar conectar o m\u00f3dulo ao aplicativo G.smart 4.0. Em caso de d\u00favidas ou problemas, consulte o suporte t\u00e9cnico da Garen para assist\u00eancia adicional.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 422,
+                    "prompt_tokens": 323,
+                    "total_tokens": 745,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-af3e0a9b-250f-49f2-a868-c86e6ab99f1c-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 323,
+                "output_tokens": 422,
+                "total_tokens": 745,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Configura\u00e7\u00e3o e Uso do Sistema Wi-Fi\n\n## Requisitos de Rede Wi-Fi\n\nPara garantir o funcionamento adequado do sistema, \u00e9 necess\u00e1rio atender aos seguintes requisitos de rede Wi-Fi:\n\n- **Frequ\u00eancia da Rede**: A rede Wi-Fi deve operar na frequ\u00eancia de 2,4 GHz.\n- **Conex\u00e3o com a Internet**: A rede deve ter um sinal de Internet ativo.\n- **Modos de Seguran\u00e7a Suportados**: A rede deve permitir os seguintes modos de seguran\u00e7a:\n  - WEP\n  - WPA\n  - WPA2\n  - WPA2 PSK\n  - AES\n\n## Funcionamento Offline\n\nAp\u00f3s o pareamento inicial entre a placa e o aplicativo, o equipamento pode operar sem a necessidade de um sinal de Internet, desde que as seguintes condi\u00e7\u00f5es sejam atendidas:\n\n- O dispositivo onde o aplicativo est\u00e1 instalado e a placa devem estar conectados \u00e0 mesma rede Wi-Fi.\n\n## Configura\u00e7\u00e3o do Aplicativo G. Smart 4.0\n\nPara configurar o sistema, siga os passos abaixo:\n\n1. **Instala\u00e7\u00e3o do Aplicativo**:\n   - Baixe e instale o aplicativo G. Smart 4.0 em seu smartphone ou tablet.\n   - O aplicativo est\u00e1 dispon\u00edvel para dispositivos Android e iOS.\n\n2. **Pareamento Inicial**:\n   - Conecte o dispositivo ao qual o aplicativo foi instalado \u00e0 rede Wi-Fi de 2,4 GHz.\n   - Siga as instru\u00e7\u00f5es no aplicativo para realizar o pareamento inicial com a placa.\n\n3. **Opera\u00e7\u00e3o**:\n   - Ap\u00f3s o pareamento, o sistema pode operar sem conex\u00e3o \u00e0 Internet, desde que o dispositivo e a placa permane\u00e7am na mesma rede Wi-Fi.\n\n## Considera\u00e7\u00f5es Finais\n\n- Certifique-se de que a rede Wi-Fi atende a todos os requisitos mencionados para evitar problemas de conectividade.\n- Em caso de d\u00favidas ou problemas durante a instala\u00e7\u00e3o ou opera\u00e7\u00e3o, consulte o suporte t\u00e9cnico ou a documenta\u00e7\u00e3o adicional fornecida pelo fabricante.\n\nEste manual fornece as informa\u00e7\u00f5es necess\u00e1rias para a configura\u00e7\u00e3o e uso do sistema Wi-Fi com o aplicativo G. Smart 4.0. Siga as instru\u00e7\u00f5es cuidadosamente para garantir uma opera\u00e7\u00e3o suave e eficiente.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 445,
+                    "prompt_tokens": 336,
+                    "total_tokens": 781,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-69208894-dcb0-4fd1-8205-1fd63496b2dc-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 336,
+                "output_tokens": 445,
+                "total_tokens": 781,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Configuraci\u00f3n de la Aplicaci\u00f3n G. Smart 4.0\n\n## Introducci\u00f3n\n\nLa aplicaci\u00f3n G. Smart 4.0 est\u00e1 dise\u00f1ada para facilitar la gesti\u00f3n de dispositivos inteligentes a trav\u00e9s de smartphones o tabletas. Este manual proporciona instrucciones detalladas para la instalaci\u00f3n y configuraci\u00f3n de la aplicaci\u00f3n en dispositivos Android e iOS.\n\n## Requisitos Previos\n\n- **Dispositivo Compatible**: Smartphone o tableta con sistema operativo Android o iOS.\n- **Conexi\u00f3n Wi-Fi**: Aseg\u00farese de que el lugar de instalaci\u00f3n tenga una se\u00f1al Wi-Fi de 2.4GHz de buena calidad.\n- **Bluetooth y Ubicaci\u00f3n**: Active el Bluetooth y la ubicaci\u00f3n en su dispositivo para facilitar la detecci\u00f3n de dispositivos.\n\n## Instalaci\u00f3n de la Aplicaci\u00f3n\n\n1. **Descarga e Instalaci\u00f3n**:\n   - Acceda a la tienda de aplicaciones de su dispositivo (Google Play Store para Android o App Store para iOS).\n   - Busque \"G. Smart 4.0\" y descargue la aplicaci\u00f3n.\n   - Instale la aplicaci\u00f3n siguiendo las instrucciones en pantalla.\n\n## Configuraci\u00f3n Inicial\n\n1. **Registro en la Aplicaci\u00f3n**:\n   - Abra la aplicaci\u00f3n G. Smart 4.0.\n   - Siga las instrucciones para crear una cuenta nueva o inicie sesi\u00f3n si ya tiene una cuenta.\n\n2. **Conexi\u00f3n a la Red Wi-Fi**:\n   - Aseg\u00farese de que su dispositivo est\u00e9 conectado a una red Wi-Fi de 2.4GHz.\n   - Si no est\u00e1 conectado, vaya a la configuraci\u00f3n de Wi-Fi de su dispositivo y con\u00e9ctese a la red deseada.\n\n3. **Activaci\u00f3n de Bluetooth y Ubicaci\u00f3n**:\n   - Vaya a la configuraci\u00f3n de su dispositivo.\n   - Active el Bluetooth y la ubicaci\u00f3n para facilitar la detecci\u00f3n de dispositivos inteligentes.\n\n## Pareamiento de Dispositivos\n\n1. **Iniciar el Pareamiento**:\n   - En la aplicaci\u00f3n G. Smart 4.0, seleccione la opci\u00f3n para agregar un nuevo dispositivo.\n   - Siga las instrucciones en pantalla para iniciar el proceso de pareamiento.\n\n2. **Confirmaci\u00f3n de Pareamiento**:\n   - Una vez que el dispositivo se haya emparejado correctamente, la aplicaci\u00f3n mostrar\u00e1 un mensaje de confirmaci\u00f3n con un s\u00edmbolo verde.\n\n## Soluci\u00f3n de Problemas\n\n- **Problemas de Conexi\u00f3n Wi-Fi**:\n  - Verifique que su dispositivo est\u00e9 dentro del alcance de la se\u00f1al Wi-Fi.\n  - Aseg\u00farese de que la red Wi-Fi sea de 2.4GHz, ya que la aplicaci\u00f3n no es compatible con redes de 5GHz.\n\n- **Problemas de Pareamiento**:\n  - Aseg\u00farese de que el Bluetooth y la ubicaci\u00f3n est\u00e9n activados.\n  - Reinicie el dispositivo y vuelva a intentar el proceso de pareamiento.\n\n## Conclusi\u00f3n\n\nLa aplicaci\u00f3n G. Smart 4.0 proporciona una manera eficiente de gestionar dispositivos inteligentes. Siguiendo este manual, podr\u00e1 instalar y configurar la aplicaci\u00f3n de manera efectiva, asegurando una experiencia de usuario \u00f3ptima.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 635,
+                    "prompt_tokens": 282,
+                    "total_tokens": 917,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-1de10109-1b91-4e43-83e8-194e86095633-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 282,
+                "output_tokens": 635,
+                "total_tokens": 917,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual: Central Fit Connect\n\n## Introdu\u00e7\u00e3o\n\nEste manual fornece instru\u00e7\u00f5es detalhadas sobre como utilizar e operar o sistema Central Fit Connect. Siga as etapas cuidadosamente para garantir o funcionamento correto do dispositivo.\n\n## Pareamento do Dispositivo\n\n1. **Iniciar Pareamento**: \n   - Ligue o dispositivo e inicie o processo de pareamento conforme as instru\u00e7\u00f5es do fabricante.\n\n2. **Confirma\u00e7\u00e3o de Pareamento**:\n   - Ap\u00f3s o pareamento ser conclu\u00eddo com sucesso, uma mensagem de confirma\u00e7\u00e3o aparecer\u00e1 no automatizador com um sinal verde.\n\n3. **Finalizar Configura\u00e7\u00e3o**:\n   - Com as confirma\u00e7\u00f5es vis\u00edveis, clique em 'conclu\u00eddo' para finalizar o processo. O automatizador estar\u00e1 ent\u00e3o pronto para uso.\n\n## Opera\u00e7\u00e3o do Dispositivo\n\n- **Bot\u00e3o de Comando**:\n  - Pressione o bot\u00e3o 'comando' para inverter o estado atual do automatizador:\n    - Se o dispositivo estiver aberto, ele ser\u00e1 fechado.\n    - Se o dispositivo estiver fechado, ele ser\u00e1 aberto.\n\n## Termo de Garantia\n\nEste produto est\u00e1 coberto por uma garantia que assegura a qualidade e o funcionamento adequado do dispositivo. Para mais detalhes sobre os termos e condi\u00e7\u00f5es da garantia, consulte o certificado de garantia fornecido com o produto.\n\n## Certificado de Garant\u00eda\n\nEl producto est\u00e1 cubierto por una garant\u00eda que asegura la calidad y el funcionamiento adecuado del dispositivo. Para m\u00e1s detalles sobre los t\u00e9rminos y condiciones de la garant\u00eda, consulte el certificado de garant\u00eda proporcionado con el producto.\n\n---\n\nEste manual foi projetado para ajudar voc\u00ea a configurar e operar o Central Fit Connect de maneira eficaz. Para qualquer d\u00favida ou problema, entre em contato com o suporte t\u00e9cnico do fabricante.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 350,
+                    "prompt_tokens": 272,
+                    "total_tokens": 622,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-39065617-3e2b-4ff4-b446-5bc9854d871d-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 272,
+                "output_tokens": 350,
+                "total_tokens": 622,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual: Central Fit Connect\n\n## Termo de Garantia\n\n### Certificado de Garantia\n\nO equipamento fabricado pela GAREN AUTOMA\u00c7\u00c3O S/A, localizado na Rua S\u00e3o Paulo, 760, Vila Araceli, Gar\u00e7a-SP, CNPJ: 13.246.724/0001-61, IE: 315.029.838-119, foi testado e aprovado pelos departamentos de Engenharia, Qualidade e Produ\u00e7\u00e3o. Este produto \u00e9 garantido contra defeitos de projeto, fabrica\u00e7\u00e3o e montagem, bem como por v\u00edcios de qualidade do material que o tornem inadequado ou impr\u00f3prio para o consumo a que se destina.\n\n### Prazo de Garantia\n\nA garantia \u00e9 v\u00e1lida por um per\u00edodo legal de 90 (noventa) dias a partir da data de aquisi\u00e7\u00e3o, desde que sejam seguidas as orienta\u00e7\u00f5es de instala\u00e7\u00e3o, utiliza\u00e7\u00e3o e cuidados descritos no manual.\n\n### Cobertura da Garantia\n\nEm caso de defeito durante o per\u00edodo de garantia, a responsabilidade da GAREN AUTOMA\u00c7\u00c3O S/A \u00e9 restrita ao conserto ou substitui\u00e7\u00e3o do aparelho.\n\n### Condi\u00e7\u00f5es para a Garantia\n\n- A garantia \u00e9 v\u00e1lida somente se as orienta\u00e7\u00f5es de instala\u00e7\u00e3o, uso e manuten\u00e7\u00e3o descritas no manual forem seguidas.\n- A garantia cobre apenas defeitos de fabrica\u00e7\u00e3o e montagem, n\u00e3o se aplicando a danos causados por mau uso, instala\u00e7\u00e3o inadequada ou modifica\u00e7\u00f5es n\u00e3o autorizadas.\n\n### Procedimento em Caso de Defeito\n\nCaso o equipamento apresente defeito dentro do per\u00edodo de garantia, entre em contato com o servi\u00e7o de atendimento ao cliente da GAREN AUTOMA\u00c7\u00c3O S/A para obter suporte e informa\u00e7\u00f5es sobre como proceder com o conserto ou substitui\u00e7\u00e3o do produto.\n\n### Exce\u00e7\u00f5es e Limita\u00e7\u00f5es\n\n- A garantia n\u00e3o cobre danos causados por acidentes, uso indevido, neglig\u00eancia, modifica\u00e7\u00f5es n\u00e3o autorizadas ou instala\u00e7\u00e3o inadequada.\n- A garantia n\u00e3o se aplica a pe\u00e7as de desgaste natural ou consum\u00edveis.\n\n### Contato\n\nPara mais informa\u00e7\u00f5es ou para acionar a garantia, entre em contato com a GAREN AUTOMA\u00c7\u00c3O S/A atrav\u00e9s dos canais de atendimento dispon\u00edveis no manual do produto.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 441,
+                    "prompt_tokens": 279,
+                    "total_tokens": 720,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-0581a897-4ba2-4090-9e5f-3ed87777cd53-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 279,
+                "output_tokens": 441,
+                "total_tokens": 720,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Garantia e Recomenda\u00e7\u00f5es\n\n## Garantia\n\n### Prazo de Garantia\n- **Prazo Total**: 1 (um) ano a partir da data de aquisi\u00e7\u00e3o comprovada.\n- **Per\u00edodo Adicional**: Acrescemos ao prazo legal 275 dias, totalizando 1 (um) ano.\n- **Cobran\u00e7as no Per\u00edodo Adicional**: Durante os 275 dias adicionais, ser\u00e3o cobradas apenas as visitas e o transporte.\n\n### Condi\u00e7\u00f5es de Atendimento\n- **Localidades sem Assist\u00eancia T\u00e9cnica Autorizada**: As despesas de transporte do aparelho e/ou t\u00e9cnico s\u00e3o de responsabilidade do consumidor.\n- **Substitui\u00e7\u00e3o ou Conserto**: A substitui\u00e7\u00e3o ou conserto do equipamento n\u00e3o prorroga o prazo de garantia.\n\n## Perda de Garantia\n\nA garantia ser\u00e1 anulada nas seguintes condi\u00e7\u00f5es:\n- **Uso Inadequado**: Se o produto n\u00e3o for utilizado em condi\u00e7\u00f5es normais ou n\u00e3o for empregado ao que se destina.\n- **Danos por Acidentes ou Natureza**: Danos causados por acidentes ou agentes da natureza, como raios, inunda\u00e7\u00f5es, desabamentos, etc.\n- **Instala\u00e7\u00e3o Inadequada**: Se o produto for instalado em rede el\u00e9trica inadequada ou em desacordo com as instru\u00e7\u00f5es do manual t\u00e9cnico.\n- **Danos por Acess\u00f3rios**: Danos provocados por acess\u00f3rios ou equipamentos instalados no produto.\n\n## Recomenda\u00e7\u00f5es\n\nPara garantir o bom funcionamento e a durabilidade do produto, siga as recomenda\u00e7\u00f5es abaixo:\n- Utilize o produto conforme as condi\u00e7\u00f5es normais de uso e para os fins a que se destina.\n- Proteja o produto de acidentes e agentes da natureza.\n- Siga rigorosamente as instru\u00e7\u00f5es do manual t\u00e9cnico para instala\u00e7\u00e3o e uso.\n- Evite o uso de acess\u00f3rios ou equipamentos n\u00e3o recomendados pelo fabricante.\n\nSeguindo estas diretrizes, voc\u00ea assegura a validade da garantia e o bom desempenho do seu produto.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 408,
+                    "prompt_tokens": 272,
+                    "total_tokens": 680,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_4691090a87",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-17ba05ed-62cd-425a-a7a9-2ae042ea03af-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 272,
+                "output_tokens": 408,
+                "total_tokens": 680,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Recomenda\u00e7\u00f5es para Instala\u00e7\u00e3o e Manuten\u00e7\u00e3o de Equipamentos\n\n## Introdu\u00e7\u00e3o\n\nEste manual fornece diretrizes essenciais para a instala\u00e7\u00e3o e manuten\u00e7\u00e3o de equipamentos, garantindo que o processo seja realizado de forma segura e eficaz. Seguir estas recomenda\u00e7\u00f5es \u00e9 crucial para assegurar a validade da garantia e o funcionamento adequado do equipamento.\n\n## Instala\u00e7\u00e3o\n\n### Servi\u00e7o T\u00e9cnico Autorizado\n\n- **Import\u00e2ncia**: A instala\u00e7\u00e3o do equipamento deve ser realizada exclusivamente por um servi\u00e7o t\u00e9cnico autorizado. Estes profissionais possuem o treinamento e as ferramentas necess\u00e1rias para garantir que o equipamento seja instalado corretamente e em conformidade com as especifica\u00e7\u00f5es do fabricante.\n\n- **Benef\u00edcios**: Utilizar um servi\u00e7o t\u00e9cnico autorizado assegura que o equipamento funcione de maneira eficiente e reduz o risco de danos que possam ocorrer devido a uma instala\u00e7\u00e3o inadequada.\n\n## Manuten\u00e7\u00e3o\n\n### Manuten\u00e7\u00e3o Preventiva e Corretiva\n\n- **Manuten\u00e7\u00e3o Preventiva**: Recomenda-se que a manuten\u00e7\u00e3o preventiva seja realizada regularmente por um servi\u00e7o t\u00e9cnico autorizado. Isso inclui inspe\u00e7\u00f5es peri\u00f3dicas e ajustes necess\u00e1rios para manter o equipamento em condi\u00e7\u00f5es ideais de opera\u00e7\u00e3o.\n\n- **Manuten\u00e7\u00e3o Corretiva**: Em caso de falhas ou defeitos, a manuten\u00e7\u00e3o corretiva deve ser realizada imediatamente por um t\u00e9cnico autorizado para evitar danos adicionais ao equipamento.\n\n## Garantia\n\n### Cobertura da Garantia\n\n- **Condi\u00e7\u00f5es**: A garantia cobre defeitos de fabrica\u00e7\u00e3o e problemas que ocorram durante o uso normal do equipamento, desde que a instala\u00e7\u00e3o e manuten\u00e7\u00e3o tenham sido realizadas por um servi\u00e7o t\u00e9cnico autorizado.\n\n- **Exclus\u00f5es**: A garantia ser\u00e1 automaticamente anulada se a instala\u00e7\u00e3o ou reparos forem realizados por pessoas n\u00e3o autorizadas. Isso inclui a abertura, remo\u00e7\u00e3o, substitui\u00e7\u00e3o de pe\u00e7as ou componentes do equipamento.\n\n## Conclus\u00e3o\n\nPara garantir a longevidade e o desempenho do seu equipamento, \u00e9 essencial seguir as recomenda\u00e7\u00f5es de instala\u00e7\u00e3o e manuten\u00e7\u00e3o descritas neste manual. Sempre utilize servi\u00e7os t\u00e9cnicos autorizados para qualquer interven\u00e7\u00e3o no equipamento, assegurando assim a validade da garantia e a seguran\u00e7a do usu\u00e1rio.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 416,
+                    "prompt_tokens": 143,
+                    "total_tokens": 559,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_4691090a87",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-f7838605-21ff-4d20-b6cf-b7ab3bee37b7-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 143,
+                "output_tokens": 416,
+                "total_tokens": 559,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Garantia e Instala\u00e7\u00e3o\n\n## Garantia\n\n### Cobertura da Garantia\n\nA GAREN AUTOMA\u00c7\u00c3O S/A garante seus produtos contra defeitos de projeto, fabrica\u00e7\u00e3o e montagem, bem como falhas de qualidade do material que tornem o produto inadequado ou impr\u00f3prio para o uso ao qual se destina. Esta garantia \u00e9 v\u00e1lida por um per\u00edodo de 90 (noventa) dias a partir da data de aquisi\u00e7\u00e3o do produto.\n\n### Condi\u00e7\u00f5es para a Garantia\n\n- A garantia \u00e9 v\u00e1lida desde que sejam observadas as instru\u00e7\u00f5es de instala\u00e7\u00e3o, uso e manuten\u00e7\u00e3o descritas no manual do produto.\n- Em caso de defeito durante o per\u00edodo de garantia, a responsabilidade da GAREN AUTOMA\u00c7\u00c3O S/A est\u00e1 limitada \u00e0 repara\u00e7\u00e3o ou substitui\u00e7\u00e3o do aparelho.\n\n### Exclus\u00e3o da Garantia\n\n- A instala\u00e7\u00e3o e reparos realizados por pessoas n\u00e3o autorizadas resultar\u00e3o na exclus\u00e3o autom\u00e1tica da garantia.\n\n## Informa\u00e7\u00f5es da Empresa\n\n- **Nome da Empresa:** GAREN AUTOMA\u00c7\u00c3O S/A\n- **Endere\u00e7o:** Rua S\u00e3o Paulo, 760, Vila Aracelli, Gar\u00e7a-SP\n- **CNPJ:** 13.246.724/0001-61\n- **Inscri\u00e7\u00e3o Estadual (IE):** 315.029.838-119\n\n## Instru\u00e7\u00f5es Gerais\n\nPara garantir o bom funcionamento e a durabilidade do produto, siga rigorosamente as instru\u00e7\u00f5es de instala\u00e7\u00e3o, uso e manuten\u00e7\u00e3o fornecidas no manual do produto. Em caso de d\u00favidas ou necessidade de assist\u00eancia t\u00e9cnica, entre em contato com a GAREN AUTOMA\u00c7\u00c3O S/A ou um representante autorizado.\n\n## Contato\n\nPara mais informa\u00e7\u00f5es ou suporte t\u00e9cnico, entre em contato com a GAREN AUTOMA\u00c7\u00c3O S/A atrav\u00e9s dos canais de atendimento dispon\u00edveis no manual do produto ou no site oficial da empresa.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 370,
+                    "prompt_tokens": 281,
+                    "total_tokens": 651,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-39658f68-50c6-47ed-8791-a7dbdc174cab-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 281,
+                "output_tokens": 370,
+                "total_tokens": 651,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Garant\u00eda del Producto\n\n## Introducci\u00f3n\n\nEste manual tiene como objetivo proporcionar informaci\u00f3n detallada sobre la garant\u00eda ofrecida para nuestros productos, asegurando el respeto al consumidor y manteniendo la credibilidad y confianza en nuestros productos.\n\n## Plazo de Garant\u00eda\n\n- **Plazo Legal**: La garant\u00eda legal es de 275 d\u00edas.\n- **Plazo Adicional**: Se a\u00f1ade un plazo adicional de 275 d\u00edas, totalizando un a\u00f1o desde la fecha de adquisici\u00f3n comprobada.\n\n## Cobertura de la Garant\u00eda\n\nDurante el periodo adicional de 275 d\u00edas, se aplican las siguientes condiciones:\n\n- **Visitas y Transporte**: Solo se cobrar\u00e1n las visitas y el transporte.\n- **Localidades sin Asistencia T\u00e9cnica Autorizada**: En estas localidades, los costos de transporte del aparato y/o del t\u00e9cnico son responsabilidad del consumidor.\n\n## Condiciones de la Garant\u00eda\n\nLa garant\u00eda no se extiende en los siguientes casos:\n\n1. **Uso Inadecuado**: Cuando el producto no se utiliza en condiciones normales o no se destina al fin para el cual fue dise\u00f1ado.\n2. **Da\u00f1os por Accidentes o Agentes de la Naturaleza**: Incluye da\u00f1os causados por rayos, inundaciones, deslizamientos, etc.\n3. **Instalaci\u00f3n Incorrecta**: Si el producto es instalado en una red el\u00e9ctrica inadecuada o en desacuerdo con las instrucciones del manual t\u00e9cnico.\n4. **Da\u00f1os por Accesorios o Equipamientos**: Da\u00f1os causados por el uso de accesorios o equipamientos no recomendados.\n\n## Limitaciones de la Garant\u00eda\n\n- **Sustituci\u00f3n o Reparaci\u00f3n**: La sustituci\u00f3n o reparaci\u00f3n del equipamiento no prorroga el plazo de garant\u00eda.\n\n## Responsabilidades del Consumidor\n\n- **Transporte**: En caso de no existir asistencia t\u00e9cnica autorizada en la localidad, el consumidor es responsable de los costos de transporte del aparato y/o del t\u00e9cnico.\n\n## Conclusi\u00f3n\n\nEste manual de garant\u00eda est\u00e1 dise\u00f1ado para asegurar que los consumidores comprendan completamente los t\u00e9rminos y condiciones de la garant\u00eda ofrecida. Para cualquier consulta adicional, se recomienda contactar con el servicio de atenci\u00f3n al cliente.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 449,
+                    "prompt_tokens": 293,
+                    "total_tokens": 742,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_50cad350e4",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-8456f0b1-ae9f-4051-877f-8f64c569a945-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 293,
+                "output_tokens": 449,
+                "total_tokens": 742,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Seguridad y Uso de Equipos El\u00e9ctricos\n\n## Introducci\u00f3n\n\nEste manual proporciona directrices esenciales para la instalaci\u00f3n, uso y mantenimiento de equipos el\u00e9ctricos, asegurando su funcionamiento seguro y eficiente. Es crucial seguir estas instrucciones para evitar da\u00f1os al equipo y garantizar la seguridad del usuario.\n\n## Instalaci\u00f3n\n\n### Requisitos de Instalaci\u00f3n\n\n1. **Ubicaci\u00f3n Adecuada**: \n   - Instale el equipo en un lugar seco y bien ventilado.\n   - Evite \u00e1reas propensas a inundaciones o deslizamientos.\n\n2. **Red El\u00e9ctrica**:\n   - Aseg\u00farese de que la red el\u00e9ctrica sea adecuada para el equipo.\n   - Verifique que la instalaci\u00f3n el\u00e9ctrica cumpla con las normativas locales y las especificaciones del fabricante.\n\n3. **Instrucciones del Manual T\u00e9cnico**:\n   - Siga estrictamente las instrucciones proporcionadas en el manual t\u00e9cnico del equipo.\n   - No realice modificaciones no autorizadas en el equipo.\n\n## Uso del Equipo\n\n### Operaci\u00f3n Segura\n\n1. **Condiciones de Uso**:\n   - Utilice el equipo solo para los fines previstos por el fabricante.\n   - No sobrecargue el equipo m\u00e1s all\u00e1 de su capacidad nominal.\n\n2. **Accesorios y Equipamientos**:\n   - Use solo accesorios y equipamientos recomendados por el fabricante.\n   - La instalaci\u00f3n de accesorios no autorizados puede causar da\u00f1os al equipo.\n\n## Mantenimiento\n\n### Inspecci\u00f3n Regular\n\n1. **Revisiones Peri\u00f3dicas**:\n   - Realice inspecciones regulares para detectar signos de desgaste o da\u00f1o.\n   - Aseg\u00farese de que todas las conexiones el\u00e9ctricas est\u00e9n seguras.\n\n2. **Limpieza**:\n   - Mantenga el equipo limpio y libre de polvo.\n   - Use productos de limpieza recomendados por el fabricante.\n\n### Reparaciones\n\n1. **Servicio T\u00e9cnico Autorizado**:\n   - En caso de fallas, contacte a un servicio t\u00e9cnico autorizado.\n   - No intente reparar el equipo por su cuenta.\n\n## Seguridad\n\n### Precauciones Generales\n\n1. **Protecci\u00f3n Personal**:\n   - Use equipo de protecci\u00f3n personal adecuado al manipular el equipo.\n   - Aseg\u00farese de que el \u00e1rea de trabajo est\u00e9 libre de peligros.\n\n2. **Desconexi\u00f3n de Energ\u00eda**:\n   - Desconecte el equipo de la fuente de energ\u00eda antes de realizar cualquier mantenimiento.\n   - Aseg\u00farese de que el equipo est\u00e9 completamente apagado antes de manipularlo.\n\n## Conclusi\u00f3n\n\nEl cumplimiento de las instrucciones de este manual es esencial para garantizar la seguridad y el rendimiento \u00f3ptimo del equipo el\u00e9ctrico. La instalaci\u00f3n y el uso adecuados, junto con el mantenimiento regular, prolongar\u00e1n la vida \u00fatil del equipo y minimizar\u00e1n el riesgo de accidentes.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 577,
+                    "prompt_tokens": 129,
+                    "total_tokens": 706,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_4691090a87",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-bb930eb6-a510-4124-b04f-beb7e8b91477-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 129,
+                "output_tokens": 577,
+                "total_tokens": 706,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        },
+        {
+            "content": "# Manual de Recomendaciones para Instalaci\u00f3n y Mantenimiento de Equipamiento\n\n## Introducci\u00f3n\n\nEste manual proporciona directrices esenciales para la instalaci\u00f3n y mantenimiento de equipamiento, asegurando que se realicen de manera segura y efectiva. Es fundamental seguir estas recomendaciones para garantizar el correcto funcionamiento del equipo y mantener la validez de la garant\u00eda.\n\n## Instalaci\u00f3n y Mantenimiento\n\n### Servicio T\u00e9cnico Autorizado\n\n- **Instalaci\u00f3n y Mantenimiento:** Recomendamos que tanto la instalaci\u00f3n como el mantenimiento del equipamiento sean realizados exclusivamente por un servicio t\u00e9cnico autorizado. Estos profesionales est\u00e1n capacitados para manejar el equipo de manera segura y eficiente.\n  \n- **Reparaciones y Sustituciones:** Solo el personal autorizado est\u00e1 habilitado para abrir, remover, sustituir piezas o componentes, as\u00ed como reparar defectos que est\u00e9n cubiertos por la garant\u00eda.\n\n### Garant\u00eda\n\n- **Validez de la Garant\u00eda:** La garant\u00eda del producto se mantendr\u00e1 v\u00e1lida \u00fanicamente si las instalaciones y reparaciones son realizadas por personal autorizado. Cualquier intervenci\u00f3n por parte de personal no autorizado resultar\u00e1 en la exclusi\u00f3n autom\u00e1tica de la garant\u00eda.\n\n## Informaci\u00f3n del Comprador\n\nPara mantener un registro adecuado y facilitar cualquier proceso relacionado con la garant\u00eda, es importante que el comprador proporcione la siguiente informaci\u00f3n:\n\n- **Nombre del Comprador**\n- **Direcci\u00f3n**\n- **Ciudad**\n- **C\u00f3digo Postal**\n\n## Informaci\u00f3n del Revendedor\n\nEl revendedor debe proporcionar la siguiente informaci\u00f3n para completar el registro del producto:\n\n- **Nombre del Revendedor**\n- **Fecha de la Compra**\n- **Tel\u00e9fono de Contacto**\n\n## Identificaci\u00f3n del Producto\n\nEs crucial identificar correctamente el producto para cualquier consulta o servicio relacionado con el mismo. Aseg\u00farese de tener a mano la identificaci\u00f3n del producto al contactar con el servicio t\u00e9cnico autorizado.\n\n## Contacto\n\nPara m\u00e1s informaci\u00f3n o asistencia, visite nuestro sitio web: [garen.com.br](http://garen.com.br)\n\n---\n\nEste manual debe ser seguido cuidadosamente para asegurar el correcto funcionamiento del equipamiento y la validez de la garant\u00eda. Cualquier duda o consulta adicional debe ser dirigida al servicio t\u00e9cnico autorizado o al revendedor.",
+            "additional_kwargs": {
+                "refusal": null
+            },
+            "response_metadata": {
+                "token_usage": {
+                    "completion_tokens": 431,
+                    "prompt_tokens": 205,
+                    "total_tokens": 636,
+                    "completion_tokens_details": {
+                        "accepted_prediction_tokens": 0,
+                        "audio_tokens": 0,
+                        "reasoning_tokens": 0,
+                        "rejected_prediction_tokens": 0
+                    },
+                    "prompt_tokens_details": {
+                        "audio_tokens": 0,
+                        "cached_tokens": 0
+                    }
+                },
+                "model_name": "gpt-4o-2024-08-06",
+                "system_fingerprint": "fp_4691090a87",
+                "finish_reason": "stop",
+                "logprobs": null
+            },
+            "type": "ai",
+            "name": null,
+            "id": "run-42ad00b3-d34b-4d71-bc37-8c3fdb615f41-0",
+            "example": false,
+            "tool_calls": [],
+            "invalid_tool_calls": [],
+            "usage_metadata": {
+                "input_tokens": 205,
+                "output_tokens": 431,
+                "total_tokens": 636,
+                "input_token_details": {
+                    "audio": 0,
+                    "cache_read": 0
+                },
+                "output_token_details": {
+                    "audio": 0,
+                    "reasoning": 0
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,250 @@
+{
+    "data": [
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "## CENTRAL: FIT CONNECT\n\nAplica\u00e7\u00e3o : motores monof\u00e1sicos at\u00e9 1/4 Aplicaci\u00f3n : motores monof\u00e1sicos hasta 1/4\n\n<!-- image -->\n\n## CARACTER\u00cdSTICAS",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "- 1 - Gravador - Conector para grava\u00e7\u00e3o do microcontrolador (uso da f\u00e1brica);\n- 1 - Grabadora - Conector para grabaci\u00f3n del microcontrolador (uso de f\u00e1brica);\n- 2 - M\u00f3dulo Garen Setup - Conector para o m\u00f3dulo Wi-Fi;\n- 2 - M\u00f3dulo Garen Setup - Conector para el m\u00f3dulo Wi-Fi;\n- 3 - Jumper BV/DZ - Alterar entre m\u00e1quinas BV e DZ;\n- 3 - Jumper BV/DZ - Cambio entre m\u00e1quinas BV y DZ;\n- 4 - Jumper JP1 - Alterar entre fotoc\u00e9lula PWM e fotoc\u00e9lula normal;\n- 4 - Jumper JP1 - Cambio entre fotoc\u00e9lula PWM y fotoc\u00e9lula normal;\n- 5 - Jumper REV. - Selecionar (ou n\u00e3o) a fun\u00e7\u00e3o revers\u00e3o;\n- 5 - Jumper REV. - Seleccionar (o no) la funci\u00f3n de inversi\u00f3n;\n- 6 - Jumper BOT - Comando de botoeira externa;\n- 6 - Jumper BOT - Comando de botonera externa;\n- 7 - Jumper PAUSA - Fechamento autom\u00e1tico: ajuste do tempo;\n- 7 - Jumper PAUSE - Cierre autom\u00e1tico: ajuste del tiempo;\n- 8 - Jumper FREIO - Selecionar o freio desejado e a for\u00e7a dele;\n- 8 - Jumper FRENO - Seleccione el freno deseado y su fuerza;",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "- 7 - Jumper PAUSE - Cierre autom\u00e1tico: ajuste del tiempo;\n- 8 - Jumper FREIO - Selecionar o freio desejado e a for\u00e7a dele;\n- 8 - Jumper FRENO - Seleccione el freno deseado y su fuerza;\n- 9 - Jumper RAMPA - Selecionar a for\u00e7a da rampa antes de encontrar o fim de curso;\n- 9 - Jumper RAMPA - Selecciona la fuerza de la rampa antes de llegar al final del curso;\n- 10 - Jumper FOR\u00c7A - Ajuste da for\u00e7a do motor;\n- 10 - Jumper FUERZA - Regulaci\u00f3n de la fuerza del motor;\n- 11 - Bot\u00e3o TX (-) - Gravar (e apagar) controle e ajuste das demais fun\u00e7\u00f5es;\n- 11 - Bot\u00f3n TX (-) - Control de grabaci\u00f3n (y borrado) y ajuste de otras funciones;\n- 12 - Bot\u00e3o CURSO (+) - Gravar curso e ajuste das demais fun\u00e7\u00f5es;\n- 12 - Bot\u00f3n CURSO (+) - Grabar curso y ajuste de otras funciones;\n- 13 - FCA / FCF - Fim de curso de abertura e fim de curso de fechamento;",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "<!-- image -->\n\n- 13 - FCA / FCF - Final de curso de apertura y final de curso de cierre;\n- 14 - LED FCA / LED FCF - Leds indicando a atua\u00e7\u00e3o dos finais de curso;\n- 14 - LED FCA / LED FCF - LED indicadores de actuaci\u00f3n de los finales de curso;\n- 15 - FOTO - Entrada de emerg\u00eancia, conector da fotoc\u00e9lula;\n- 15 - Foto - Entrada de emergencia, conector fotoc\u00e9lula;\n- 16 - OP. 8F - M\u00f3dulo opcional 8 fun\u00e7\u00f5es (Trava, Luz de garagem, Sinaleiro e alarme);\n- 16 - OP. 8F - M\u00f3dulo opcional con 8 funciones (Cerradura, Luz de garaje, Se\u00f1alizaci\u00f3n y alarma);\n- 17 - REDE - Entrada de alimenta\u00e7\u00e3o 127/220 V;\n- 17 - RED - Entrada de tensi\u00f3n 127/220 V;\n- 18 - PT / AZ / BR - Fios do motor (\u00e9 necess\u00e1rio inverter PT por BR caso a instala\u00e7\u00e3o necessite);\n- 18 - PT / AZ / BR - Cables del motor (es necesario invertir PT por BR si la instalaci\u00f3n lo requiere);\n- 19 - CAP - Entrada do capacitor do motor.\n- 19 - CAP - Entrada del capacitor del motor.\n\n## CARACTER\u00cdSTICAS COMPLEMENTARES",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "## CARACTER\u00cdSTICAS COMPLEMENTARES\n\n## CARACTER\u00cdSTICAS ADICIONALES",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "- - Microcontrolador ARM\u00ae: microcontrolador 32 bits de \u00faltima gera\u00e7\u00e3o com processamento em 48Mhz;\n- - Microcontrolador ARM\u00ae: microcontrolador de \u00faltima generaci\u00f3n de 32 bits con procesamiento de 48Mhz;\n- - Receptor Heter\u00f3dino: N\u00e3o perde a calibra\u00e7\u00e3o de frequ\u00eancia;\n- - Receptor Heterodino: No pierde la calibraci\u00f3n de frecuencia;\n- - Principais ajustes por meio dos jumpers em conjunto com os bot\u00f5es;\n- - Ajustes principales a trav\u00e9s de los jumpers junto con los botones;\n- - Ajuste de rampa de chegada: Desacelera\u00e7\u00e3o eletr\u00f4nica;\n- - Regulaci\u00f3n de la rampa de llegada: Desaceleraci\u00f3n electr\u00f3nica;\n- - Freio eletr\u00f4nico: com op\u00e7\u00e3o de desabilitar o freio;\n- - Freno electr\u00f3nico: con opci\u00f3n de deshabilitar el freno;\n- - Embreagem Eletr\u00f4nica: Ajuste da for\u00e7a do motor durante o funcionamento;\n- - Embrague Electr\u00f3nico: Ajuste de la potencia del motor durante el funcionamiento;\n- - Ajuste de fechamento autom\u00e1tico: jumper PAUSA;\n- - Ajuste de cierre autom\u00e1tico: jumper de PAUSA;",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "- - Embrague Electr\u00f3nico: Ajuste de la potencia del motor durante el funcionamiento;\n- - Ajuste de fechamento autom\u00e1tico: jumper PAUSA;\n- - Ajuste de cierre autom\u00e1tico: jumper de PAUSA;\n- - Varistor e Fus\u00edvel de Prote\u00e7\u00e3o: atua em caso de descarga atmosf\u00e9rica e sobrecarga;\n- - Varistor y Fusible de Protecci\u00f3n: act\u00faa en caso de descarga atmosf\u00e9rica y sobrecarga;\n- - 2 bot\u00f5es de programa\u00e7\u00e3o: Programa\u00e7\u00e3o independente de transmissores e curso;\n- - 2 botones de programaci\u00f3n: programaci\u00f3n independiente de transmisores y curso;\n- - Entrada para Fotoc\u00e9lula com Conector Polarizado: Evita liga\u00e7\u00f5es invertidas;\n- - Entrada para Fotoc\u00e9lula con Conector Polarizado: Evita conexiones invertidas;\n- - Prote\u00e7\u00f5es nas Entradas de Fim de curso e Botoeira: menor risco de danos ao circuito;\n- - Protecciones en Entradas de Fin de Curso y Botonera: menor riesgo de da\u00f1o al circuito;\n- - Leds de Fim de Curso: Sinaliza o estado dos finais de curso;\n- - Leds de fim de curso: Se\u00f1aliza el estado de final de curso;",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "- - Leds de Fim de Curso: Sinaliza o estado dos finais de curso;\n- - Leds de fim de curso: Se\u00f1aliza el estado de final de curso;\n- - 2 Conectores para Fim de Curso: entrada de 5 e 3 pinos;\n- - 2 Conectores Fin de Curso: entrada de 5 y 3 pines;\n- - Sa\u00edda para Placa 8F: Agrega as fun\u00e7\u00f5es de luz de garagem, trava magn\u00e9tica, sinaleiro e alarme;\n- - Salida para Placa 8F: Agrega las funciones de luz de garaje, cerradura magn\u00e9tica, sem\u00e1foro y alarma;\n- - 1 entrada de botoeira independente.\n- - 1 entrada de botonera independiente.",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "## FUN\u00c7\u00d5ES\n\n## FUNCIONES\n\nBot\u00e3o CURSO: Com a rampa habilitada, \u00e9 obrigat\u00f3rio fazer a programa\u00e7\u00e3o do curso do port\u00e3o. Pressione o bot\u00e3o CURSO (+), o LED vai piscar 5 vezes e permanecer aceso. O processo de grava\u00e7\u00e3o ter\u00e1 in\u00edcio quando o port\u00e3o estiver fechado. Caso ele n\u00e3o esteja, acione o bot\u00e3o programado do controle para realizar o fechamento completo do port\u00e3o (at\u00e9 o fim de curso de fechamento). Acione novamente o bot\u00e3o programado do controle para realizar a abertura completa do port\u00e3o (at\u00e9 o fim do curso de abertura). Ao pressionar novamente o bot\u00e3o programado do controle, o port\u00e3o deve realizar o fechamento completo (ao encontrar o fim de curso o LED piscar\u00e1 3 vezes demonstrando o fim da programa\u00e7\u00e3o e ficar\u00e1 apagado).",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "BOT\u00d3N CURSO: Con la rampa habilitada, es obligatorio programar el curso del port\u00f3n. Presione el bot\u00f3n CURSO (+), el LED parpadear\u00e1 5 veces y permanecer\u00e1 encendido. El proceso de grabaci\u00f3n comenzar\u00e1 cuando el port\u00f3n est\u00e9 cerrado. De lo contrario, presione el bot\u00f3n programado en el control para cerrar completamente el port\u00f3n (hasta el final de la carrera de cierre). Presione nuevamente el bot\u00f3n programado en el control para abrir completamente el port\u00f3n (hasta el final del recorrido de apertura). Al presionar nuevamente el bot\u00f3n programado en el control, el port\u00f3n debe cerrarse completamente (el llegar el final de carrera, el LED parpadear\u00e1 3 veces, indicando el final de la programaci\u00f3n, y permanecer\u00e1 apagado).\n\nOBS: Para sair do modo de grava\u00e7\u00e3o do curso, basta pressionar o bot\u00e3o CURSO (+), o LED ir\u00e1 piscar duas vezes e permanecer\u00e1 apagado. O LED permanece aceso durante todo o tempo de grava\u00e7\u00e3o do curso.",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "OBS: Para sair do modo de grava\u00e7\u00e3o do curso, basta pressionar o bot\u00e3o CURSO (+), o LED ir\u00e1 piscar duas vezes e permanecer\u00e1 apagado. O LED permanece aceso durante todo o tempo de grava\u00e7\u00e3o do curso.\n\nNOTA: Para salir del modo de grabaci\u00f3n del curso, simplemente presione el bot\u00f3n CURSO (+), el LED parpadear\u00e1 dos veces y permanecer\u00e1 apagado. El LED permanece encendido durante todo el tiempo de grabaci\u00f3n del curso.\n\n## BOT\u00c3O TX\n\n## BOT\u00d3N TRANSMISSI\u00d3N",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "- - Programa\u00e7\u00e3o do transmissor (controle remoto): Pressione e solte o bot\u00e3o TX (-) da central. O LED ir\u00e1 piscar e permanecer aceso. Pressione e solte o bot\u00e3o do controle remoto desejado. O LED ir\u00e1 piscar por alguns segundos. Enquanto o LED est\u00e1 piscando, pressione novamente o bot\u00e3o TX (-) da central para confirmar o cadastro. O controle remoto ser\u00e1 descartado caso este procedimento n\u00e3o seja confirmado, permanecendo o LED aceso. Ap\u00f3s a programa\u00e7\u00e3o dos controles remotos necess\u00e1rios, aguarde 8 segundos ou pressione o bot\u00e3o TX (-) da central enquanto o LED estiver aceso.",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "- - Programaci\u00f3n del transmisor (control remoto): Presione y suelte el bot\u00f3n TX (-) en la central. El LED parpadear\u00e1 y permanecer\u00e1 encendido. Presione y suelte el bot\u00f3n del control remoto deseado. El LED parpadear\u00e1 durante unos segundos. Mientras el LED parpadea, presione de nuevo el bot\u00f3n TX (-)  de la central  para confirmar el registro. El mando a distancia se desechar\u00e1 si no se confirma este procedimiento, el LED permanecer\u00e1 encendido. Despu\u00e9s de programar los controles remotos necesarios, espere 8 segundos o presione el bot\u00f3n TX (-) de la central mientras el LED est\u00e1 encendido.\n- - Para apagar toda a mem\u00f3ria: Pressione e solte o bot\u00e3o TX (-) da central. O LED ir\u00e1 piscar e permanecer aceso. Mantenha pressionado o bot\u00e3o TX (-) da central at\u00e9 que o LED comece a piscar rapidamente. Quando o LED ficar aceso, indica que a mem\u00f3ria est\u00e1 vazia, pressione o bot\u00e3o TX (-) ou aguarde o LED apagar.",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "- Para borrar toda la memoria: presione y suelte el bot\u00f3n TX (-) en la central. El LED parpadear\u00e1 y permanecer\u00e1 encendido. Mantenga presionado el bot\u00f3n TX (-) de la central hasta que el LED comience a parpadear r\u00e1pidamente. Cuando el LED permanece encendido, indica que la memoria est\u00e1 vac\u00eda, presione el bot\u00f3n TX (-) o espere a que el LED se apague.\n\nOBS: se o LED n\u00e3o piscar ao apertar o bot\u00e3o do controle, significa que a mem\u00f3ria est\u00e1 cheia. NOTA: si el LED no parpadea cuando presiona el bot\u00f3n de control, significa que la memoria est\u00e1 llena.\n\nJumper BOT: jumper para adicionar uma botoeira, que ir\u00e1 atuar como o controle remoto. Jumper BOT: jumper para a\u00f1adir una botonera, que actuar\u00e1 como mando a distancia.",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "Jumper BOT: jumper para adicionar uma botoeira, que ir\u00e1 atuar como o controle remoto. Jumper BOT: jumper para a\u00f1adir una botonera, que actuar\u00e1 como mando a distancia.\n\nJumper BV/DZ: jumper para selecionar o tipo de motor que ser\u00e1 utilizado, uma vez que as rampas s\u00e3o diferentes para os tipos de motores (basculante e deslizante). Com o jumper aberto, a central faz uma rampa igual tanto na abertura quanto no fechamento (m\u00e1quinas DZ). Com o jumper fechado, a central faz uma rampa menor durante a abertura e uma rampa maior durante o fechamento (m\u00e1quinas BV). Para a execu\u00e7\u00e3o da rampa, ela deve estar ajustada para a melhor configura\u00e7\u00e3o, assim como o procedimento da programa\u00e7\u00e3o do tempo de abertura / fechamento (percurso) deve ser feito.",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "Jumper BV/DZ: jumper para seleccionar el tipo de motor a utilizar, ya que las rampas son diferentes para los tipos de motores (levadizos y corredizos). Con el jumper abierto, la central realiza una rampa igual tanto en apertura como en cierre (m\u00e1quinas DZ). Con el jumper cerrado, la central realiza una rampa menor en apertura y una rampa mayor en cierre (m\u00e1quinas BV). Para la ejecuci\u00f3n de la rampa, se debe ajustar la miesma a la mejor configuraci\u00f3n, as\u00ed como se debe realizar el procedimiento de programaci\u00f3n del tiempo de apertura/cierre (curso).\n\nJumper FOR\u00c7A: jumper para selecionar a for\u00e7a do motor. Basta fechar o jumper e usar os bot\u00f5es CURSO (+) e TX (-). O bot\u00e3o CURSO (+) aumenta em 5% a for\u00e7a do motor e o bot\u00e3o TX (-) diminui em 5% a for\u00e7a do motor. Nos limites inferior ou superior, o LED permanece aceso. Ao pressionar os bot\u00f5es, o LED pisca. Para gravar o valor da for\u00e7a do motor na mem\u00f3ria do microcontrolador e carreg\u00e1-lo, basta apenas retirar o jumper.",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "Jumper FUERZA: jumper para seleccionar la fuerza del motor. Simplemente cierre el jumper y use los botones CURSO (+) y TX (-). El bot\u00f3n CURSO (+) aumenta la potencia del motor en un 5% y el bot\u00f3n TX (-) disminuye la potencia del motor en un 5%. En los l\u00edmites inferior o superior, el LED permanece encendido. Al presionar los botones, el LED parpadea. Para registrar el valor de potencia del motor en la memoria del microcontrolador y cargarlo, simplemente retire el jumper.\n\nJumper FREIO: jumper para selecionar o tipo do freio e a for\u00e7a do freio. Com o jumper fechado, utiliza-se os bot\u00f5es TX (-) e CURSO (+) para alterar o tipo do freio e o valor da for\u00e7a dele.\n\nJumper FRENO: jumper para seleccionar el tipo de freno y la fuerza de frenado. Con el jumper cerrado, utilice los botones TX (-) y CURSO (+) para cambiar el tipo de freno y el valor de su fuerza.",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "- - Para a escolha do tipo do freio deve-se pressionar os dois bot\u00f5es ao mesmo tempo por alguns segundos (at\u00e9 o LED piscar tr\u00eas vezes). Caso o LED permane\u00e7a aceso, significa que o tipo de freio ativo \u00e9 o freio por Revers\u00e3o. Se o LED permanecer apagado, o freio ativo \u00e9 o freio DC. Para alterar o tipo de freio, basta pressionar o bot\u00e3o TX (-), com o LED indicando o tipo de freio selecionado. Para sair da sele\u00e7\u00e3o do tipo do freio, basta pressionar o bot\u00e3o CURSO (+);\n- - Para elegir el tipo de freno, presione ambos botones al miesmo tiempo durante unos segundos (hasta que el LED parpadee tres veces). Si el LED permanece encendido, significa que el tipo de freno activo es freno inversor. Si el LED permanece apagado, el freno activo es el freno de CC. Para cambiar el tipo de freno, simplemente presione el bot\u00f3n TX (-), con el LED indicando el tipo de freno seleccionado. Para salir de la selecci\u00f3n del tipo de freno, simplemente presione el bot\u00f3n CURSO (+);",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "- - Para selecionar o tempo do freio por Revers\u00e3o, pressiona-se o bot\u00e3o TX (-) por alguns segundos (at\u00e9 o LED piscar duas vezes e permanecer apagado). Caso o LED fique aceso, significa que o valor do tempo est\u00e1 em um de seus extremos (m\u00e1ximo ou m\u00ednimo). Em qualquer caso que n\u00e3o seja o m\u00e1ximo ou m\u00ednimo, o LED estar\u00e1 apagado. Por meio dos bot\u00f5es CURSO (+) e TX (-), seleciona-se o tempo do freio por revers\u00e3o, com o bot\u00e3o CURSO (+) aumentando em 5% e o bot\u00e3o TX (-) diminuindo em 5%. Para gravar o valor escolhido e, consequentemente, o tipo do freio, basta retirar o jumper.",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "- Para seleccionar el tiempo de freno inversor, presione el bot\u00f3n TX (-) durante unos segundos (hasta que el LED parpadee dos veces y permaneza apagado). Si el LED permanece encendido, significa que el valor del tiempo est\u00e1 en uno de sus extremos (m\u00e1ximo o m\u00ednimo). En cualquier caso que no sea m\u00e1ximo o m\u00ednimo, el LED estar\u00e1 apagado. Usando los botones CURSO (+) y TX (-), se selecciona el tiempo de freno inversor, con el bot\u00f3n CURSO (+) aumentando en un 5% y el bot\u00f3n TX (-) disminuyendo en un 5%. Para guardar el valor elegido y, en consecuencia, el tipo de freno, basta con quitar el jumper.",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "- Para selecionar a for\u00e7a do freio DC, pressiona-se o bot\u00e3o CURSO (+) por alguns segundos (at\u00e9 o LED piscar tr\u00eas vezes). Caso o LED fique aceso, significa que o valor do tempo est\u00e1 em um de seus extremos (m\u00e1ximo ou m\u00ednimo). Em qualquer caso que n\u00e3o seja o m\u00e1ximo ou m\u00ednimo, o LED estar\u00e1 apagado. Por meio dos bot\u00f5es CURSO (+) e TX (-), seleciona-se a for\u00e7a do freio DC, com o bot\u00e3o CURSO (+) aumentando em 5% e o bot\u00e3o TX (-) diminuindo em 5%. Para gravar o valor escolhido e, consequentemente, o tipo do freio, basta retirar o jumper.",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "- Para seleccionar la fuerza del freno de DC, presione el bot\u00f3n CURSO (+) durante unos segundos (hasta que el LED parpadee tres veces). Si el LED permanece encendido, significa que el valor del tiempo est\u00e1 en uno de sus extremos (m\u00e1ximo o m\u00ednimo). En cualquier caso que no sea m\u00e1ximo o m\u00ednimo, el LED estar\u00e1 apagado. Usando los botones CURSO (+) y TX (-), se selecciona la fuerza del freno de DC, con el bot\u00f3n CURSO (+) aumentando en un 5 % y el bot\u00f3n TX (-) disminuyendo en un 5 %. Para guardar el valor elegido y, en consecuencia, el tipo de freno, basta con quitar el jumper\n\nOBS: sempre que o jumper for aberto o valor escolhido at\u00e9 o momento ser\u00e1 gravado na mem\u00f3ria e carregado. Al\u00e9m disso, sempre que for definir o tempo do freio por Revers\u00e3o ou a for\u00e7a do freio DC, \u00e9 necess\u00e1rio que o tipo do freio esteja de acordo com o que ser\u00e1 ajustado, caso contr\u00e1rio n\u00e3o ser\u00e1 poss\u00edvel entrar na rotina de sele\u00e7\u00e3o.",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "NOTA: cada vez que se abre el jumper, el valor elegido hasta el momento se guardar\u00e1 en la memoria y se cargar\u00e1. Adem\u00e1s, siempre que se defina el tiempo de freno inversor o la fuerza del freno DC, es necesario que el tipo de freno coincida con el que se desea ajustar, de lo contrario no ser\u00e1 posible ingresar a la rutina de selecci\u00f3n.\n\nJumper JP1: jumper para selecionar o tipo de fotoc\u00e9lula usada. Com o jumper aberto, utiliza-se a fotoc\u00e9lula normal, com sinal em baixa. Com o jumper fechado, utiliza-se a fotoc\u00e9lula com PWM.\n\nJumper JP1: jumper para seleccionar el tipo de fotoc\u00e9lula utilizada. Con el jumper abierto se utiliza la fotoc\u00e9lula normal, con se\u00f1al en baja. Con el jumper cerrado se utiliza la fotoc\u00e9lula con PWM.",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "Jumper JP1: jumper para seleccionar el tipo de fotoc\u00e9lula utilizada. Con el jumper abierto se utiliza la fotoc\u00e9lula normal, con se\u00f1al en baja. Con el jumper cerrado se utiliza la fotoc\u00e9lula con PWM.\n\nJumper PAUSA: jumper para selecionar o tempo de pausa quando o port\u00e3o atinge o fim de curso aberto (Fechamento Autom\u00e1tico). Ou seja, o tempo que o port\u00e3o ir\u00e1 ficar aberto antes de come\u00e7ar a fechar. Ao fechar o jumper, basta pressionar os bot\u00f5es CURSO (+) e TX (-) para selecionar o tempo de pausa. O tempo m\u00ednimo \u00e9 0 (sem pausa) e o tempo m\u00e1ximo \u00e9 de 120 segundos (2 minutos), sendo que ao pressionar os bot\u00f5es, varia-se de 5 em 5 o valor. Quando chega nos limites inferior ou superior, o LED acende. Para gravar o valor do tempo de pausa na mem\u00f3ria do microcontrolador e carreg\u00e1-lo, basta abrir o jumper.",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "Jumper PAUSA: jumper para seleccionar el tiempo de pausa cuando el port\u00f3n llega al final de carrera de apertura (Cierre Autom\u00e1tico). Es decir, el tiempo que permanecer\u00e1 abierto el port\u00f3n antes de que comience a cerrarse. Al cerrar el jumper, simplemente presione los botones CURSO (+) y TX (-) para seleccionar el tiempo de pausa. El tiempo m\u00ednimo es 0 (sin pausa) y el tiempo m\u00e1ximo es 120 segundos (2 minutos). Cuando alcanza los l\u00edmites inferior o superior, el LED se enciende. Para registrar el valor del tiempo de pausa en la memoria del microcontrolador y cargarlo, simplemente abra el jumper\n\nJumper RAMPA: jumper para selecionar qual a porcentagem de for\u00e7a ser\u00e1 entregue ao motor ao executar a rampa. Ao fechar o jumper, basta pressionar os bot\u00f5es CURSO (+) e TX (-) para selecionar o valor da for\u00e7a da rampa. Quando chega nos limites inferior ou superior, o LED acende. Para gravar o valor da for\u00e7a da rampa na mem\u00f3ria do microcontrolador e carreg\u00e1-lo, basta abrir o jumper.",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "Jumper RAMPA: jumper para seleccionar qu\u00e9 porcentaje de potencia se entregar\u00e1 al motor al ejecutar la rampa. Al cerrar el jumper, simplemente presione los botones CURSO (+) y TX (-) para seleccionar el valor de la fuerza de la rampa. Cuando alcanza los l\u00edmites inferior o superior, el LED se enciende. Para registrar el valor de la fuerza de la rampa en la memoria del microcontrolador y cargarlo, simplemente abra el jumper.\n\nJumper REV: com o jumper fechado, a central ignora comandos durante a abertura. Durante o fechamento basta um comando para parar e reverter o motor para o sentido de abertura novamente. Com o jumper aberto, a central aceita comando durante a abertura do port\u00e3o e para a movimenta\u00e7\u00e3o do motor, onde um novo comando ir\u00e1 executar o fechamento. Durante o fechamento um comando ir\u00e1 parar o motor e ser\u00e1 necess\u00e1rio um novo comando para o port\u00e3o abrir novamente.",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "Jumper REV: con el jumper cerrado, la central ignora los mandos durante la apertura. Durante el cierre, basta un mando para parar y revertir el motor al sentido de apertura. Con el jumper abierto, la central acepta un mando durante la apertura del port\u00f3n y detiene el motor, donde un nuevo mando ejecutar\u00e1 el cierre. Durante el cierre, un mando parar\u00e1 el motor y ser\u00e1 necesario un nuevo mando para que el port\u00f3n vuelva a abrirse.\n\nFotoc\u00e9lula: se a fotoc\u00e9lula estiver interrompida enquanto o port\u00e3o est\u00e1 aberto, impedir\u00e1 qualquer comando de fechamento e este permanecer\u00e1 aberto at\u00e9 que a fotoc\u00e9lula n\u00e3o detecte nenhum obst\u00e1culo. Durante o fechamento, a detec\u00e7\u00e3o de obst\u00e1culo por meio da fotoc\u00e9lula ir\u00e1 parar o motor e reverter o sentido para a abertura automaticamente, independente do estado da fun\u00e7\u00e3o reverso.",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "Fotoc\u00e9lula: si la fotoc\u00e9lula se interrumpe estando el port\u00f3n abierto, impedir\u00e1 cualquier mando de cierre y permanecer\u00e1 abierto hasta que la fotoc\u00e9lula no detecte ning\u00fan obst\u00e1culo. Durante el cierre, la detecci\u00f3n de obst\u00e1culos mediante la fotoc\u00e9lula detendr\u00e1 el motor e invertir\u00e1 el sentido de apertura autom\u00e1ticamente, independientemente del estado de la funci\u00f3n inversa\n\nDICA: para verificar o sentido de fechamento, acione a fotoc\u00e9lula, onde somente durante o fechamento o port\u00e3o ir\u00e1 reverter o sentido. Para inverter o sentido inverta o conector do fim de curso e altere as posi\u00e7\u00f5es entre os fios preto e branco do motor. Uma outra op\u00e7\u00e3o para inverter o sentido \u00e9 utilizar o Garen Setup. Por meio dele \u00e9 poss\u00edvel selecionar o sentido desejado sem precisar inverter os fios (sem mexer fisicamente na central).",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "CONSEJO: para verificar la direcci\u00f3n de cierre, active la fotoc\u00e9lula, donde solo durante el cierre, el port\u00f3n invertir\u00e1 la direcci\u00f3n. Para invertir la direcci\u00f3n, invierta el conector del interruptor de l\u00edmite y cambie las posiciones entre los cables del motor blanco y negro. Otra opci\u00f3n para invertir la direcci\u00f3n es usar el Garen Setup. A trav\u00e9s de \u00e9l, es posible seleccionar la direcci\u00f3n deseada sin tener que invertir los cables (sin tocar f\u00edsicamente  la central).\n\nLEDs de fim de curso: a central conta com dois LEDs para indicar o fim de curso fechado e aberto. Quando o port\u00e3o est\u00e1 fechado (fim de curso fechado acionado), o LED FCF estar\u00e1 aceso. Quando o port\u00e3o estiver aberto (fim de curso aberto acionado), o LED FCA estar\u00e1 aceso.",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "Leds de final de carrera: la central dispone de dos leds para indicar el final de carrera cerrado y abierto. Cuando el port\u00f3n est\u00e1 cerrado (interruptor de l\u00edmite cerrado activado), el LED FCF estar\u00e1 encendido. Cuando el port\u00f3n est\u00e1 abierto (interruptor de l\u00edmite abierto activado), el LED FCA estar\u00e1 encendido\n\nop\u00e7\u00e3o para o m\u00f3dulo com as fun\u00e7\u00f5es de ventilador, alarme,\n\nOpcional 8F - M\u00f3dulo opcional 8 fun\u00e7\u00f5es: aberto, trava, 3 seg., 15 seg., 30 seg. e 60 seg.\n\nOpci\u00f3n 8F - M\u00f3dulo opcional de 8 funciones: opci\u00f3n para el m\u00f3dulo con ventilador, alarma, apertura, bloqueo, 3 seg., 15 seg., 30 seg. y 60 seg.\n\n## OBSERVA\u00c7\u00d5ES\n\nCOMENTARIOS\n\n## M\u00f3dulo Garen Setup \u2190\n\nM\u00f3dulo de Configuraci\u00f3n Wi-fi Garen Setup\n\nM\u00f3dulo Wi-fi para conectar a central ao app G.smart 4.0\n\nM\u00f3dulo Wi-fi para conectar la central ao app G.smart 4.0",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "COMENTARIOS\n\n## M\u00f3dulo Garen Setup \u2190\n\nM\u00f3dulo de Configuraci\u00f3n Wi-fi Garen Setup\n\nM\u00f3dulo Wi-fi para conectar a central ao app G.smart 4.0\n\nM\u00f3dulo Wi-fi para conectar la central ao app G.smart 4.0\n\nReset: caso o usu\u00e1rio perca o smartphone, \u00e9 poss\u00edvel exclu\u00ed-lo por meio de um conjunto espec\u00edfico de condi\u00e7\u00f5es. Para isso, basta fechar os jumpers FOR\u00c7A, FREIO, PAUSA e RAMPA. Com os jumpers fechados, basta pressionar os dois bot\u00f5es por alguns segundos (at\u00e9 o LED piscar).\n\nRestablecer: si el usuario pierde el smartphone, es posible eliminar ese smartphone a trav\u00e9s de un conjunto espec\u00edfico de condiciones. Para ello basta con cerrar los jumpers FUERZA, FRENO, PAUSA y RAMPA. Con los jumpers cerrados, basta con pulsar los dos botones durante unos segundos (hasta que el LED parpadee).\n\nRequisitos de rede Wi-Fi Internet: rede Wi-Fi 2,4 GHz com sinal de Internet [1]. Permite Modos de Seguran\u00e7a (WEP/WPA/WPA2/WPA2 PSK/AES).",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "Requisitos de rede Wi-Fi Internet: rede Wi-Fi 2,4 GHz com sinal de Internet [1]. Permite Modos de Seguran\u00e7a (WEP/WPA/WPA2/WPA2 PSK/AES).\n\nRequisitos de la red Wi-Fi Internet: Red Wi-Fi  2.4 GHz con se\u00f1al de Internet [1]. Permite Modos de Seguridad (WEP/WPA/WPA2/WPA2 PSK/AES).\n\nDepois de feito o pareamento inicial da placa e o aplicativo, o equipamento pode funcionar sem sinal de internet, desde que o dispositivo onde o aplicativo esteja instalado e a placa usem a mesma rede Wi-Fi.\n\nDespu\u00e9s del emparejamiento inicial de la placa y la aplicaci\u00f3n, el equipo puede funcionar sin se\u00f1al de Internet, siempre que el dispositivo donde est\u00e1 instalada la aplicaci\u00f3n y la placa usen la miesma red Wi-Fi.\n\n<!-- image -->\n\nConfigurando o aplicativo G. Smart 4.0: instale o aplicativo G. Smart 4.0 para smarphone/tablet (dispon\u00edvel para Android e iOS).\n\nConfiguraci\u00f3n de la aplicaci\u00f3n G. Smart 4.0: Instale la aplicaci\u00f3n G. Smart 4.0 para smarthphone/tablete (disponible para Android y iOS).",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "Configuraci\u00f3n de la aplicaci\u00f3n G. Smart 4.0: Instale la aplicaci\u00f3n G. Smart 4.0 para smarthphone/tablete (disponible para Android y iOS).\n\nVerifique se no local de instala\u00e7\u00e3o h\u00e1 sinal de Wi-Fi 2,4GHz de qualidade:\n\nCompruebe si el sitio de instalaci\u00f3n tiene una se\u00f1al Wi-Fi 2.4Ghz de calidad;\n\nFa\u00e7a o cadastro no aplicativo;\n\nRegistrarse en la aplicaci\u00f3n;\n\nConecte-se a uma rede Wi-Fi se ainda n\u00e3o estiver conectado em alguma;\n\nCon\u00e9ctese a una red Wi-Fi si a\u00fan no est\u00e1 conectado a una;\n\nLigue a localiza\u00e7\u00e3o do aparelho e o Bluetooth para facilitar na procura do aparelho;\n\nEncienda la ubicaci\u00f3n del dispositivo y Bluetooth para facilitar la b\u00fasqueda de dispositivos;\n\n<!-- image -->\n\nManual: Central Fit Connect\n\n<!-- image -->\n\n9\n\nManual: Central Fit Connect\n\n<!-- image -->\n\nAssim que o pareamento for conclu\u00eddo, o automatizador aparecer\u00e1 uma mensagem de confirma\u00e7\u00e3o com um sinal verde;",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "<!-- image -->\n\n9\n\nManual: Central Fit Connect\n\n<!-- image -->\n\nAssim que o pareamento for conclu\u00eddo, o automatizador aparecer\u00e1 uma mensagem de confirma\u00e7\u00e3o com um sinal verde;\n\nUna vez que se complete el emparejamiento, el operador mostrar\u00e1 un mensaje de confirmaci\u00f3n con una marca verde;\n\n<!-- image -->\n\nCom essas confirma\u00e7\u00f5es, clique em 'conclu\u00eddo' e o automatizador estar\u00e1 pronto para o uso;\n\nCon estas confirmaciones, haga clic en 'hecho' y el automatizador estar\u00e1 listo para usar;\n\n<!-- image -->\n\n<!-- image -->\n\nPressionando o bot\u00e3o 'comando'        o automatizador inverter\u00e1 seu estado atual, fechado se estiver aberto e\n\nabrindo se estiver fechado.\n\nPulsando el bot\u00f3n 'mando',             el automatismo invertir\u00e1 su estado actual, cerrado si est\u00e1 abierto y abierto si est\u00e1 cerrado.\n\nManual: Central Fit Connect\n\n## TERMO DE GARANTIA\n\n## CERTIFICADO DE GARANT\u00cdA",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "Manual: Central Fit Connect\n\n## TERMO DE GARANTIA\n\n## CERTIFICADO DE GARANT\u00cdA\n\nO equipamento de fabrica\u00e7\u00e3o GAREN AUTOMA\u00c7\u00c3O S/A, localizada na rua S\u00e3o Paulo, 760, Vila Araceli, Gar\u00e7a-SP, CNPJ: 13.246.724/0001-61, IE: 315.029.838-119 adquirido por Vs., foi testado e aprovado pelos departamentos de Engenharia, Qualidade e Produ\u00e7\u00e3o. Garantimos este produto contra defeito de projeto, fabrica\u00e7\u00e3o e montagem e/ou solidariamente em decorr\u00eancia de v\u00edcios de qualidade do material que o torne inadequado ou impr\u00f3prio ao consumo a que se destinam pelo prazo legal de 90 (noventa) dias a contar da data de aquisi\u00e7\u00e3o, desde que observadas \u00e0s orienta\u00e7\u00f5es de instala\u00e7\u00e3o, utiliza\u00e7\u00e3o e cuidados descritos no manual. Em caso de defeito, no per\u00edodo de garantia, nossa responsabilidade \u00e9 restrita ao conserto ou substitui\u00e7\u00e3o do aparelho.",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "Por respeito ao consumidor e consequ\u00eancia da credibilidade e da confian\u00e7a depositada em nossos produtos, acrescemos ao prazo legal 275 dias, totalizando 1 (um) ano contado a partir da data de aquisi\u00e7\u00e3o comprovada. Neste per\u00edodo adicional de 275 dias, somente ser\u00e3o cobradas as visitas e o transporte. Em localidades onde n\u00e3o existe assist\u00eancia t\u00e9cnica autorizada, as despesas de transporte do aparelho e/ou t\u00e9cnico s\u00e3o de responsabilidade do consumidor. A substitui\u00e7\u00e3o ou conserto do equipamento, n\u00e3o torna o prazo de garantia prorrogado.\n\nEsta garantia perde seu efeito caso o produto n\u00e3o seja utilizado em condi\u00e7\u00f5es normais; n\u00e3o seja empregado ao que se destina; sofra quaisquer danos provocados por acidentes ou agentes da natureza como raios, inunda\u00e7\u00f5es, desabamentos, etc.; seja instalado em rede el\u00e9trica inadequada ou em desacordo com as instru\u00e7\u00f5es do manual t\u00e9cnico; sofra danos provocados por acess\u00f3rios ou equipamentos Instalados no produto.\n\n## Recomenda\u00e7\u00f5es",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "## Recomenda\u00e7\u00f5es\n\nRecomendamos a instala\u00e7\u00e3o e manuten\u00e7\u00e3o do equipamento atrav\u00e9s de servi\u00e7o t\u00e9cnico autorizado. Apenas ele est\u00e1 habilitado a abrir, remover, substituir pe\u00e7as ou componentes, bem como reparar defeitos cobertos pela garantia.\n\nA instala\u00e7\u00e3o e reparos executados por pessoas n\u00e3o autorizadas implicar\u00e3o na exclus\u00e3o autom\u00e1tica da garantia.",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "A instala\u00e7\u00e3o e reparos executados por pessoas n\u00e3o autorizadas implicar\u00e3o na exclus\u00e3o autom\u00e1tica da garantia.\n\nEl equipamiento de fabricaci\u00f3n de GAREN AUTOMA\u00c7\u00c3O S/A, ubicada en Rua S\u00e3o Paulo, 760, Vila Aracelli, Gar\u00e7a-SP, CNPJ: 13.246.724/0001-61, IE: 315.029.838-119 adquirido por Usted, ha sido probado y aprobado por los  departamentos de Ingenier\u00eda, Calidad y Producci\u00f3n. Garantizamos este producto contra defecto de proyeto, fabricaci\u00f3n y montaje y/o solidariamente debido a fallos de calidad del material que vuelvan el producto inadecuado o impropio al consumo al que se destina por el plazo de 90 (noventa) d\u00edas desde la fecha de adquisici\u00f3n, siempre que observadas las instrucciones de instalaci\u00f3n, uso y atenci\u00f3n descritos en el manual. En caso de defecto, en el periodo de garant\u00eda, nuestra responsabilidad es restringida a la reparaci\u00f3n o sustituci\u00f3n del aparato.",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "Por respeto al consumidor y en consecuencia de la credibilidad y de la confianza depositada en nuestros productos, a\u00f1adimos al plazo legal 275 (doscientos setenta y cinco) d\u00edas, totalizando 1 (un) a\u00f1o desde la fecha de adquisici\u00f3n comprobada. En este periodo adicional de 275 d\u00edas, solamente ser\u00e1n cobradas las visitas y el transporte. En localidades donde no exista asistencia t\u00e9cnica autorizada, los costos de transporte del aparato y/o del t\u00e9cnico son de responsabilidad del consumidor. La sustituci\u00f3n o reparaci\u00f3n del equipamiento no prorroga el plazo de garant\u00eda. Esta garant\u00eda pierde su efecto, cuando el producto no se utiliza en condiciones normales; no sea utilizado al fin que se destina; sufra cualquier da\u00f1os  causados  por  accidentes  o  agentes  de  la  naturaleza  como  rayos,  inundaciones,  deslizamientos,  etc.;  sea  instalado  en  red  el\u00e9ctrica inadecuada o en desacuerdo con las instrucciones del manual t\u00e9cnico; sufra da\u00f1os causados por accesorios o equipamientos",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "inundaciones,  deslizamientos,  etc.;  sea  instalado  en  red  el\u00e9ctrica inadecuada o en desacuerdo con las instrucciones del manual t\u00e9cnico; sufra da\u00f1os causados por accesorios o equipamientos instalados en el producto.",
+            "type": "Document"
+        },
+        {
+            "id": null,
+            "metadata": {},
+            "page_content": "## Recomendaciones\n\nRecomendamos la instalaci\u00f3n y mantenimiento del equipamiento a trav\u00e9s de servicio t\u00e9cnico autorizado. Solamente ellos est\u00e1 habilitados a abrir, remover, sustituir piezas o componentes, as\u00ed como reparar defectos cubiertos por la garant\u00eda.\n\nLas instalaciones y reparaciones tendr\u00e1n que ser realizadas por personal autorizado, caso contrario, la garant\u00eda ser\u00e1 excluida autom\u00e1ticamente.\n\nComprador:\n\nEndere\u00e7o / Direcci\u00f3n:\n\nCidade / Ciudad:\n\nCEP / C\u00f3digo Postal:\n\nRevendedor:\n\nData da Compra / Fecha  de la Compra:\n\nTel:\n\nIdentifica\u00e7\u00e3o do produto / Identificaci\u00f3n del producto:\n\n<!-- image -->\n\ngaren .com.br\n\n<!-- image -->\n\n12",
+            "type": "Document"
+        }
+    ]
+}

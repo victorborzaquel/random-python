@@ -10,6 +10,14 @@ format = "isort src && black src"
 
 [packages]
 pytube = "*"
+langchain-docling = "*"
+langchain-openai = "*"
+langchain = "*"
+rapidocr-onnxruntime = "*"
+langchain-community = "*"
+pypdf = "*"
+langchain-text-splitters = "*"
+python-dotenv = "*"
 
 [dev-packages]
 isort = "*"

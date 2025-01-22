@@ -1,0 +1,48 @@
+{
+    "data": {
+        "content": "**Manual: Central Fit Connect**\n\n**Aplica\u00e7\u00e3o:** Controlador para motores monof\u00e1sicos at\u00e9 1/4.\n\n**Caracter\u00edsticas Principais:**\n- **Microcontrolador ARM\u00ae:** 32 bits, 48Mhz.\n- **Receptor Heter\u00f3dino:** Mant\u00e9m calibra\u00e7\u00e3o de frequ\u00eancia.\n- **Ajustes por Jumpers e Bot\u00f5es:** Inclui fun\u00e7\u00f5es como revers\u00e3o, for\u00e7a do motor, freio eletr\u00f4nico, e ajuste de rampa.\n- **Prote\u00e7\u00f5es:** Varistor, fus\u00edvel, e prote\u00e7\u00f5es nas entradas de fim de curso e botoeira.\n- **Conectividade:** Entrada para fotoc\u00e9lula, m\u00f3dulo Wi-Fi, e placa opcional 8 fun\u00e7\u00f5es (luz de garagem, trava, etc.).\n\n**Fun\u00e7\u00f5es de Programa\u00e7\u00e3o:**\n- **Bot\u00e3o CURSO:** Programa\u00e7\u00e3o do curso do port\u00e3o com rampa habilitada.\n- **Programa\u00e7\u00e3o do Transmissor:** Cadastro e exclus\u00e3o de controles remotos.\n- **Jumper BOT:** Adi\u00e7\u00e3o de botoeira como controle remoto.\n- **Jumper BV/DZ:** Sele\u00e7\u00e3o do tipo de motor (basculante ou deslizante) e ajuste de rampas.\n\n**Opera\u00e7\u00e3o:**\n- **LEDs Indicadores:** Sinalizam estados de programa\u00e7\u00e3o e opera\u00e7\u00e3o.\n- **Mem\u00f3ria:** Capacidade de apagar toda a mem\u00f3ria de controles remotos.\n\n**Conex\u00f5es:**\n- **Entrada de Alimenta\u00e7\u00e3o:** 127/220 V.\n- **Fios do Motor:** PT, AZ, BR (invers\u00e3o poss\u00edvel se necess\u00e1rio).\n- **Capacitor do Motor:** Conex\u00e3o dedicada.\n\nEste manual fornece uma vis\u00e3o geral das funcionalidades e configura\u00e7\u00f5es da Central Fit Connect, destacando suas capacidades de controle e ajustes para motores monof\u00e1sicos.",
+        "additional_kwargs": {
+            "refusal": null
+        },
+        "response_metadata": {
+            "token_usage": {
+                "completion_tokens": 369,
+                "prompt_tokens": 2663,
+                "total_tokens": 3032,
+                "completion_tokens_details": {
+                    "accepted_prediction_tokens": 0,
+                    "audio_tokens": 0,
+                    "reasoning_tokens": 0,
+                    "rejected_prediction_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": 0,
+                    "cached_tokens": 0
+                }
+            },
+            "model_name": "gpt-4o-2024-08-06",
+            "system_fingerprint": "fp_50cad350e4",
+            "finish_reason": "stop",
+            "logprobs": null
+        },
+        "type": "ai",
+        "name": null,
+        "id": "run-c0abef92-f27f-4269-8a8e-6d3b563edcf5-0",
+        "example": false,
+        "tool_calls": [],
+        "invalid_tool_calls": [],
+        "usage_metadata": {
+            "input_tokens": 2663,
+            "output_tokens": 369,
+            "total_tokens": 3032,
+            "input_token_details": {
+                "audio": 0,
+                "cache_read": 0
+            },
+            "output_token_details": {
+                "audio": 0,
+                "reasoning": 0
+            }
+        }
+    }
+}
